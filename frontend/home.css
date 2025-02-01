@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
 body{
     background-size: cover;
     background-position: center;
@@ -6,6 +7,60 @@ body{
     transition: background-image 1s ease-in-out;
 }
 
+h1 {
+    font-family: "Concert One", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: aliceblue;
+}
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 1.5s ease-in-out;
+    font-family: 'Concert One', cursive;
+    text-align: center;
+}
+
+/* Container for Search Stuff and Search Bar */
+.search-container {
+    background: rgba(255, 255, 255, 0.2); /* Light blur effect */
+    padding: 20px;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Heading for Search Stuff */
+.search-container h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+/* Search Bar */
+.search-container input {
+    width: 250px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+}
+
+/* Search Icon */
+.search-container i {
+    position: absolute;
+    margin-left: -30px;
+    color: gray;
+}
 
 form {
     position: relative;

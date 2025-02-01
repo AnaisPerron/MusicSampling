@@ -2,23 +2,29 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Sample tree</title>
+    <title>Sample Tree</title>
     <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
+          integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
+          crossorigin="anonymous">
+
 </head>
 <body>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
-<form action="">
-    <input type="search" autofocus required>
-    <i class="fa fa-search"></i>
-</form>
+<!-- Search Section -->
+<div class="search-container">
+    <h1>Search Stuff</h1>
+    <form action="">
+        <input type="search" autofocus required>
+        <i class="fa fa-search"></i>
+    </form>
+</div>
 
 <script>
     // List of background images
     const images = [
         'https://i.pinimg.com/originals/83/77/77/837777513c45f66a1a34c771b3fae566.jpg',
         'https://i.pinimg.com/originals/db/02/ef/db02ef3eb10cbf1c2d39399b7aa6dd18.jpg'
-
     ];
 
     let index = 0;
@@ -31,8 +37,9 @@
     // Initial call
     changeBackground();
 
-    // Change background every 10 seconds
+    // Change background every 5 seconds
     setInterval(changeBackground, 5000);
 </script>
+
 </body>
 </html>
