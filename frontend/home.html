@@ -1,11 +1,28 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Sample tree</title>
+    <title>Sample Tree</title>
     <link rel="stylesheet" href="home.css">
 </head>
 <body>
+
+<div class="fadein">
+    <div class="bg bg1"></div>
+    <div class="bg bg2"></div>
+    <div class="bg bg3"></div>
+</div>
+
+<header>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Playwrite+CA+Guides&display=swap');
+    </style>
+    <img src="logo.png" alt="Site Logo" class="logo">
+    SampleTree
+</header>
+
+
+
+
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
 <form action="">
@@ -13,26 +30,6 @@
     <i class="fa fa-search"></i>
 </form>
 
-<script>
-    // List of background images
-    const images = [
-        'https://i.pinimg.com/originals/83/77/77/837777513c45f66a1a34c771b3fae566.jpg',
-        'https://i.pinimg.com/originals/db/02/ef/db02ef3eb10cbf1c2d39399b7aa6dd18.jpg'
 
-    ];
-
-    let index = 0;
-
-    function changeBackground() {
-        document.body.style.backgroundImage = `url(${images[index]})`;
-        index = (index + 1) % images.length;
-    }
-
-    // Initial call
-    changeBackground();
-
-    // Change background every 10 seconds
-    setInterval(changeBackground, 5000);
-</script>
 </body>
 </html>
