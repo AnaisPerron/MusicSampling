@@ -4,17 +4,35 @@ body {
     background-repeat: no-repeat;
     height: 100vh;
 }
+header{
+    position: fixed;
+    background: rgba(28, 28, 28, 0.92);
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.75);
+    border-radius: 60px;
+    width: 95%;
+    margin: 20px auto;
+    margin-top: 0px;
+    font-family: "Playwrite CA Guides", serif;
+    font-weight: 150;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 35pt;
+    padding: 10px;
+    z-index: 10;
+
+}
 
 /*START OF BACKGROUND STUFF*/
 .fadein img {
-    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
     object-fit: cover;
     opacity: 0;
-    animation: fade 18s infinite; /* Increased total animation duration */
+    animation: fade 36s infinite; /* Increased total animation duration */
 }
 
 .fadein img:nth-child(1) {
@@ -22,11 +40,11 @@ body {
 }
 
 .fadein img:nth-child(2) {
-    animation-delay: 6s; /* Adjusted so it appears after the first */
+    animation-delay: 20s; /* Adjusted so it appears after the first */
 }
 
 .fadein img:nth-child(3) {
-    animation-delay: 12s; /* Ensures third image appears after the second */
+    animation-delay: 24s; /* Ensures third image appears after the second */
 }
 
 @keyframes fade {
@@ -54,32 +72,112 @@ body {
 .bg1 {
     background-image: url('beatles.jpg');
     animation-delay: 0s;
+
+    position: fixed;
+    z-index: -1;
 }
 
 .bg2 {
     background-image: url('https://i.pinimg.com/originals/21/28/61/21286118f99a6b7b377fdcab816eb4be.jpg');
     animation-delay: 5s;
+
+    position: fixed;
+    z-index: -1;
 }
 
 .bg3 {
     background-image: url('rock.png');
     animation-delay: 10s;
+
+    position: fixed;
+    z-index: -1;
 }
 
-
-
-header {
-    font-family: "Playwrite CA Guides", serif;
-    font-weight: 150;
-    font-style: normal;
-    display: flex;
-    align-items: center;
-    color: white;
-    font-size: 35pt;
-    padding: 10px;
-}
 
 .logo {
     height: 115px;
     width: auto;
 }
+
+.info-box {
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-size: 30pt;
+    font-style: normal;
+    position: absolute; /* Position it over the background */
+    top: 35%; /* Center it vertically */
+    left: 10%; /* Position it to the left */
+    transform: translateY(-50%); /* Adjust for perfect centering */
+    background: rgba(162, 25, 25, 0.73); /* Light, semi-transparent effect */
+    padding: 6vw;
+    padding-top: 20vw;
+    width: 35vw; /* Adjust width */
+    max-width: 100%; /* Prevents overflow on small screens */
+    color: white;
+    border-radius: 50px; /* Slight rounding */
+    backdrop-filter: blur(10px); /* Adds a blur effect */
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.3); /* Adds depth */
+    z-index: 1;
+}
+
+.about-us-box {
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-size: 30pt;
+    font-style: normal;
+    color: black;
+    position: absolute; /* Position it over the background */
+    top: 185%;
+    /* Center it vertically */
+    left: 10%; /* Position it to the left */
+    transform: translateY(-50%); /* Adjust for perfect centering */
+    background: rgba(255, 255, 255, 0.73); /* Light, semi-transparent effect */
+    padding: 6vw;
+    width: 68vw; /* Adjust width */
+    max-width: 100%; /* Prevents overflow on small screens */
+    margin: 40px;
+    border-radius: 15px; /* Slight rounding */
+    backdrop-filter: blur(10px); /* Adds a blur effect */
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.3); /* Adds depth */
+    z-index: 1;
+}
+
+.search-box {
+    display: flex; /* Ensures elements inside are aligned */
+    align-items: center; /* Vertically center elements */
+    justify-content: space-between; /* Pushes elements apart */
+    right: 10%;
+    top: 50%;
+    width: 25vw;
+    position: absolute;
+    background: white;
+    border-radius: 25px;
+    padding: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+    z-index: 9;
+}
+p{
+    font-size: 20pt;
+}
+.search-input {
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 16px;
+    z-index: 9;
+}
+
+.search-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 10px;
+    color: #333;
+    z-index: 9;
+    margin-left: 10px; /* Adds spacing between input and icon */
+}
+
+
+
