@@ -1,0 +1,48 @@
+---
+---
+
+<div id="container" />
+
+<style>
+    #container {
+        width: 100%;
+        height: 1390px;
+    }
+</style>
+
+<script>
+    import songs from "../../../scrape/res/songs.json" with { type: 'json' };
+    import Graph from "graphology";
+    import Sigma from "sigma";
+
+    const graph = new Graph();
+
+    function addNodesAndEdges(songs)
+    {
+        for(const song of songs)
+        {
+            const name = song.name;
+            const samples = song.sampled;
+
+            graph.mergeNode(name, {
+                label: `${name} - ${song.artist}`,
+                x: Math.random(),
+                y: Math.random(),
+                size: samples.length,
+                color: "red"
+            });
+
+            addNodesAndEdges(samples);
+
+            for (const sample of samples)
+            {
+                graph.addDirectedEdge(name, sample.name, { size: 2, color: "lightblue" });
+            }
+        }
+    }
+
+    addNodesAndEdges(songs)
+
+    const sigmaInstance = new Sigma(graph, document!.getElementById("container"));
+</script>
+
