@@ -1,502 +1,5942 @@
 [
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Ronald Reagan Era",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Moscato",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Rock the Bells",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Rolling Stone",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Poe Mans Dreams (His Vice)",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "How Far We Go (Uptown 81)",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Rigamortis",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "XXL Freshman Cypher Pt 1",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Last Real Nigga Alive",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "World Negatives",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Homage to Daz & Soopafly",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "I Hate You",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "The Heart Pt. 1",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Turn Me Up",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Diary of a Broke Nigga",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "The Heart Pt. 2",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "R.O.T.C. (Interlude)",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Heaven & Hell",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Ignorance Is Bliss",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Growing Apart (From Everything)",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Night of the Living Junkies",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "A Little Appalled",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Monster",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Alien Girl (Today W/ Her)",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Barbed Wire",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Purp and Yellow",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Textbook Stuff",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Thirsty",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "The Spiteful Chant",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Keisha's Song (Her Pain)",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "She Needs Me (Remix)",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "I Do This (Remix)",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "P&P 1.5",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Cut You Off (To Grow Closer)",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Opposites Attract (Tomorrow Without Her)",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Michael Jordan",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Average Joe",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "H.O.C.",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Look Out for Detox",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Ignorance",
-        "year": 2010
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Put That Gun Up",
-        "year": 2006
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Try Me",
-        "year": 2008
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Is It Love",
-        "year": 2009
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Faith",
-        "year": 2009
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "P & P",
-        "year": 2009
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "I Do This",
-        "year": 2009
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Wanna Be Heard",
-        "year": 2009
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "She Needs Me",
-        "year": 2009
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Celebration",
-        "year": 2009
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Today",
-        "year": 2009
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Ridin' Roun Town (Remix)",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Super Genius",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Beyonce",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Little Johnny",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Up Against the Wall",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "My Mind Drifts",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Enjoy (West Coastin')",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Outrageous",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Birds & the Beez",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Blessed",
-        "year": 2012
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Don't Understand",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Toca Tuesdays Freestyle",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Fuck Your Ethnicity",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Kush & Corinthians (His Pain)",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Taking Me Down",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Ball Game",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Kendrick Lamar",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Rapper Shit",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Ab-Souls Outro",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Get Bizy",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "A.D.H.D.",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
+  {
+    "id": 1,
+    "artist": "Saib.",
+    "name": "Fruits Basket",
+    "year": "2016",
+    "sampled": []
+  },
+  {
+    "id": 2,
+    "artist": "Leaf Beach",
+    "name": "Pint",
+    "year": "2015",
+    "sampled": []
+  },
+  {
+    "id": 3,
+    "artist": "Kendrick Lamar",
+    "name": "Push Thru",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 0,
+        "artist": "The Majestic Arrows",
+        "name": "We Love Together",
+        "year": "1973",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "artist": "Kendrick Lamar",
+    "name": "Westside, Right on Time",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 4,
+        "artist": "The Sylvers",
+        "name": "How Love Hurts",
+        "year": "1972",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "artist": "Kendrick Lamar",
+    "name": "They Ready",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 6,
+        "artist": "Willie Hutch",
+        "name": "That's What I Call Loving You",
+        "year": "1969",
+        "sampled": []
+      },
+      {
+        "id": 7,
+        "artist": "Carl Perkins",
+        "name": "Blue Suede Shoes",
+        "year": "1956",
+        "sampled": []
+      },
+      {
+        "id": 8,
+        "artist": "Big K.R.I.T.",
+        "name": "I Got This (Explicit)",
+        "year": "2012",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "artist": "Busta Rhymes",
+    "name": "Poetic Justice",
+    "year": "2012",
+    "sampled": []
+  },
+  {
+    "id": 12,
+    "artist": "Fred the Godson",
+    "name": "Poetic Justice",
+    "year": "2013",
+    "sampled": []
+  },
+  {
+    "id": 13,
+    "artist": "Kendrick Lamar",
+    "name": "Poetic Justice",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 10,
+        "artist": "Janet Jackson",
+        "name": "Any Time, Any Place",
+        "year": "1993",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "artist": "Machine Gun Kelly",
+    "name": "Mind of a Stoner",
+    "year": "2013",
+    "sampled": []
+  },
+  {
+    "id": 16,
+    "artist": "Lil Wayne",
+    "name": "Don't Kill",
+    "year": "2013",
+    "sampled": []
+  },
+  {
+    "id": 17,
+    "artist": "Kendrick Lamar",
+    "name": "Bitch, Don't Kill My Vibe",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 14,
+        "artist": "Boom Clap Bachelors",
+        "name": "Tiden Flyver",
+        "year": "2008",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "artist": "Kendrick Lamar",
+    "name": "Money Trees",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 18,
+        "artist": "Beach House",
+        "name": "Silver Soul",
+        "year": "2010",
+        "sampled": []
+      },
+      {
+        "id": 19,
+        "artist": "Gunplay",
+        "name": "Cartoon & Cereal",
+        "year": "2012",
+        "sampled": []
+      },
+      {
+        "id": 20,
+        "artist": "E-40",
+        "name": "Big Ballin' Wit My Homies",
+        "year": "1999",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "artist": "Taylor Swift",
+    "name": "Bad Blood",
+    "year": "2015",
+    "sampled": []
+  },
+  {
+    "id": 25,
+    "artist": "Kendrick Lamar",
+    "name": "Backseat Freestyle",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 22,
+        "artist": "The Chakachas",
+        "name": "Yo Soy Cubano",
+        "year": "1970",
+        "sampled": []
+      },
+      {
+        "id": 23,
+        "artist": "DJ DMD",
+        "name": "25 Lighters",
+        "year": "1998",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "artist": "Kendrick Lamar",
+    "name": "Good Kid",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 26,
+        "artist": "Roy Ayers Ubiquity",
+        "name": "We Live in Brooklyn, Baby",
+        "year": "1972",
+        "sampled": []
+      },
+      {
+        "id": 27,
+        "artist": "Jay Rock",
         "name": "Hood Gone Love It",
-        "year": 2011
-    },
-    {
+        "year": "2011",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "artist": "Assassin (Reggae)",
+    "name": "The Blacker the Berry",
+    "year": "2015",
+    "sampled": []
+  },
+  {
+    "id": 32,
+    "artist": "Kendrick Lamar",
+    "name": "The Art of Peer Pressure",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 29,
+        "artist": "Suspekt",
+        "name": "Helt Alene",
+        "year": "2011",
+        "sampled": []
+      },
+      {
+        "id": 30,
+        "artist": "RZA",
+        "name": "Ronald Reagan Era",
+        "year": "2011",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "artist": "Kendrick Lamar",
+    "name": "The Heart Pt. 3 (Will You Let It Die)",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 33,
+        "artist": "Willie Hutch",
+        "name": "Mother's Theme (Mama)",
+        "year": "1973",
+        "sampled": []
+      },
+      {
+        "id": 34,
+        "artist": "Parliament",
+        "name": "Do That Stuff",
+        "year": "1976",
+        "sampled": []
+      },
+      {
+        "id": 35,
+        "artist": "Geto Boys",
+        "name": "Mind Playing Tricks on Me",
+        "year": "1991",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "artist": "Drake",
+    "name": "Family Matters",
+    "year": "2024",
+    "sampled": []
+  },
+  {
+    "id": 40,
+    "artist": "Kendrick Lamar",
+    "name": "The Blacker the Berry",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 37,
+        "artist": "Cold Grits",
+        "name": "It's Your Thing",
+        "year": "1969",
+        "sampled": []
+      },
+      {
+        "id": 38,
+        "artist": "Terrace Martin",
+        "name": "Curly Martin",
+        "year": "2016",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "artist": "Kendrick Lamar",
+    "name": "King Kunta",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 41,
+        "artist": "Michael Jackson",
+        "name": "Smooth Criminal",
+        "year": "1987",
+        "sampled": []
+      },
+      {
+        "id": 42,
+        "artist": "Mausberg",
+        "name": "Get Nekkid",
+        "year": "2000",
+        "sampled": []
+      },
+      {
+        "id": 43,
+        "artist": "James Brown",
+        "name": "The Payback",
+        "year": "1973",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "artist": "Kendrick Lamar",
+    "name": "You Ain't Gotta Lie (Momma Said)",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 45,
+        "artist": "Detroit Emeralds",
+        "name": "You're Getting a Little Too Smart",
+        "year": "1973",
+        "sampled": []
+      },
+      {
+        "id": 46,
+        "artist": "Ice Cube",
+        "name": "You Ain't Gotta Lie (Ta Kick It)",
+        "year": "2000",
+        "sampled": []
+      },
+      {
+        "id": 47,
+        "artist": "Suga Free",
+        "name": "Fly Fo Life",
+        "year": "1997",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "artist": "Kali Uchis",
+    "name": "After the Storm",
+    "year": "2018",
+    "sampled": []
+  },
+  {
+    "id": 51,
+    "artist": "Tyler, the Creator",
+    "name": "See You Again",
+    "year": "2017",
+    "sampled": []
+  },
+  {
+    "id": 52,
+    "artist": "Kendrick Lamar",
+    "name": "Wesley's Theory",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 49,
+        "artist": "Boris Gardiner",
+        "name": "Every Nigger Is a Star",
+        "year": "1973",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "artist": "Osquinn",
+    "name": "Please Don't Waste My Time",
+    "year": "2022",
+    "sampled": []
+  },
+  {
+    "id": 56,
+    "artist": "Kendrick Lamar",
+    "name": "Institutionalized",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 53,
+        "artist": "The Comrads",
+        "name": "Homeboyz",
+        "year": "1997",
+        "sampled": []
+      },
+      {
+        "id": 54,
+        "artist": "Afrika Bambaataa",
+        "name": "Planet Rock",
+        "year": "1982",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "artist": "Kendrick Lamar",
+    "name": "Hood Politics",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 57,
+        "artist": "Sufjan Stevens",
+        "name": "All for Myself",
+        "year": "2010",
+        "sampled": []
+      },
+      {
+        "id": 58,
+        "artist": "The Notorious B.I.G.",
+        "name": "Notorious Thugs",
+        "year": "1997",
+        "sampled": []
+      },
+      {
+        "id": 59,
+        "artist": "Jay-Z",
+        "name": "Imaginary Player",
+        "year": "1997",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "artist": "Kendrick Lamar",
+    "name": "Momma",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 61,
+        "artist": "Knxwledge",
+        "name": "So[rt].",
+        "year": "2013",
+        "sampled": []
+      },
+      {
+        "id": 62,
+        "artist": "Sly & the Family Stone",
+        "name": "Wishful Thinkin'",
+        "year": "1974",
+        "sampled": []
+      },
+      {
+        "id": 63,
+        "artist": "Big Sean",
+        "name": "Control (HOF)",
+        "year": "2013",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "artist": "Kendrick Lamar",
+    "name": "Mortal Man",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 65,
+        "artist": "Houston Person",
+        "name": "I No Get Eye for Back",
+        "year": "1977",
+        "sampled": []
+      },
+      {
+        "id": 66,
+        "artist": "Gravediggaz",
+        "name": "Mommy, What's a Gravedigga?",
+        "year": "1994",
+        "sampled": []
+      },
+      {
+        "id": 67,
+        "artist": "2Pac",
+        "name": "Mats Nileskar Interview",
+        "year": "1994",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "artist": "Ab-Soul",
+    "name": "Righteous Man",
+    "year": "2024",
+    "sampled": []
+  },
+  {
+    "id": 70,
+    "artist": "Kendrick Lamar",
+    "name": "How Much a Dollar Cost",
+    "year": 2015,
+    "sampled": []
+  },
+  {
+    "id": 74,
+    "artist": "Kendrick Lamar",
+    "name": "Alright",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 71,
+        "artist": "The Color Purple",
+        "name": "All My Life I Had to Fight",
+        "year": "1985",
+        "sampled": []
+      },
+      {
+        "id": 72,
+        "artist": "Spectrasonics Virtual Instruments",
+        "name": "1-ABMI7 AA",
+        "year": "2000",
+        "sampled": []
+      },
+      {
+        "id": 73,
+        "artist": "George Clinton",
+        "name": "Wesley's Theory",
+        "year": "2015",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "artist": "Kendrick Lamar",
+    "name": "On Me",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 75,
+        "artist": "Erykah Badu",
+        "name": "On & On",
+        "year": "1997",
+        "sampled": []
+      },
+      {
+        "id": 76,
+        "artist": "Ice Cube",
+        "name": "It Was a Good Day",
+        "year": "1992",
+        "sampled": []
+      },
+      {
+        "id": 77,
+        "artist": "Dr. Dre",
+        "name": "What's the Difference",
+        "year": "1999",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "artist": "Kendrick Lamar",
+    "name": "These Walls",
+    "year": 2015,
+    "sampled": []
+  },
+  {
+    "id": 80,
+    "artist": "Kendrick Lamar",
+    "name": "Deep Water",
+    "year": 2015,
+    "sampled": []
+  },
+  {
+    "id": 82,
+    "artist": "Kendrick Lamar",
+    "name": "Black Friday",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 81,
+        "artist": "J. Cole",
+        "name": "A Tale of 2 Citiez",
+        "year": "2014",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "artist": "Kendrick Lamar",
+    "name": "These Walls (Video Version)",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 83,
+        "artist": "iLoveMemphis",
+        "name": "Hit the Quan",
+        "year": "2015",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "artist": "Kendrick Lamar",
+    "name": "Gone",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 85,
+        "artist": "Wings",
+        "name": "Spirits of Ancient Egypt",
+        "year": "1975",
+        "sampled": []
+      },
+      {
+        "id": 86,
+        "artist": "Jay-Z",
+        "name": "Hard Knock Life (Ghetto Anthem)",
+        "year": "1998",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "artist": "DJ Khaled",
+    "name": "For Free",
+    "year": "2016",
+    "sampled": []
+  },
+  {
+    "id": 89,
+    "artist": "Vince Staples",
+    "name": "Love Can Be...",
+    "year": "2017",
+    "sampled": []
+  },
+  {
+    "id": 90,
+    "artist": "Wanubal\u00e9",
+    "name": "Ticking Boxes",
+    "year": "2019",
+    "sampled": []
+  },
+  {
+    "id": 91,
+    "artist": "Kendrick Lamar",
+    "name": "For Free? (Interlude)",
+    "year": 2015,
+    "sampled": []
+  },
+  {
+    "id": 92,
+    "artist": "Tre Capital",
+    "name": "WestCoast Savior",
+    "year": "2018",
+    "sampled": []
+  },
+  {
+    "id": 93,
+    "artist": "Kendrick Lamar",
+    "name": "Kendrick Lamar Breaks Down Tracks From 'To Pimp a Butterfly (Pt. 1)",
+    "year": 2015,
+    "sampled": []
+  },
+  {
+    "id": 94,
+    "artist": "Kendrick Lamar",
+    "name": "Thuggin' (Remix)",
+    "year": 2015,
+    "sampled": []
+  },
+  {
+    "id": 97,
+    "artist": "Kendrick Lamar",
+    "name": "Go Off",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 95,
+        "artist": "Grandmaster Flash",
+        "name": "The Message",
+        "year": "1982",
+        "sampled": []
+      },
+      {
+        "id": 96,
+        "artist": "Spoonie Gee",
+        "name": "Love Rap",
+        "year": "1980",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "artist": "Kendrick Lamar",
+    "name": "The Art of Peer Pressure",
+    "year": "2012",
+    "sampled": []
+  },
+  {
+    "id": 101,
+    "artist": "Kendrick Lamar",
+    "name": "Ronald Reagan Era",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 98,
+        "artist": "Three Dog Night",
+        "name": "I'd Be So Happy",
+        "year": "1974",
+        "sampled": []
+      },
+      {
+        "id": 99,
+        "artist": "Wu-Tang Clan",
+        "name": "Wu-Tang Clan Ain't Nuthing Ta F' Wit",
+        "year": "1993",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "artist": "Kendrick Lamar",
+    "name": "Moscato",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 102,
+        "artist": "Morning, Noon & Night",
+        "name": "Time",
+        "year": "1977",
+        "sampled": []
+      },
+      {
+        "id": 103,
+        "artist": "Drake",
+        "name": "Do It Now",
+        "year": "2009",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "artist": "Kendrick Lamar",
+    "name": "Rock the Bells",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 105,
+        "artist": "Todd Rundgren",
+        "name": "Pulse",
+        "year": "1981",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "artist": "Kendrick Lamar",
+    "name": "Rolling Stone",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 107,
+        "artist": "The Zombies",
+        "name": "Time of the Season",
+        "year": "1968",
+        "sampled": []
+      },
+      {
+        "id": 108,
+        "artist": "A Tribe Called Quest",
+        "name": "Scenario",
+        "year": "1991",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "artist": "Kendrick Lamar",
+    "name": "Poe Mans Dreams (His Vice)",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 110,
+        "artist": "Gil Scott-Heron",
+        "name": "Peace Go With You, Brother (As-Salaam-Alaikum)",
+        "year": "1974",
+        "sampled": []
+      },
+      {
+        "id": 111,
+        "artist": "Stetsasonic",
+        "name": "Go Stetsa I",
+        "year": "1986",
+        "sampled": []
+      },
+      {
+        "id": 112,
+        "artist": "The Main Ingredient",
+        "name": "You Can Call Me Rover",
+        "year": "1973",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "artist": "Kendrick Lamar",
+    "name": "How Far We Go (Uptown 81)",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 114,
+        "artist": "Joseph Koo",
+        "name": "Consolation",
+        "year": "1971",
+        "sampled": []
+      },
+      {
+        "id": 115,
+        "artist": "Jay-Z",
+        "name": "The Ruler's Back",
+        "year": "2001",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "artist": "Maxo Kream",
+    "name": "Rigamortis",
+    "year": "2011",
+    "sampled": []
+  },
+  {
+    "id": 119,
+    "artist": "EDO Disco",
+    "name": "Stage III (Reverse)",
+    "year": "2018",
+    "sampled": []
+  },
+  {
+    "id": 120,
+    "artist": "Kendrick Lamar",
+    "name": "Rigamortis",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 117,
+        "artist": "Willie Jones III",
+        "name": "The Thorn",
+        "year": "2009",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "artist": "Kendrick Lamar",
+    "name": "XXL Freshman Cypher Pt 1",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 121,
+        "artist": "Billy Squier",
+        "name": "The Big Beat",
+        "year": "1980",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "artist": "Kendrick Lamar",
+    "name": "Last Real Nigga Alive",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 123,
+        "artist": "Minnie Riperton",
+        "name": "Here We Go",
+        "year": "1980",
+        "sampled": []
+      },
+      {
+        "id": 124,
+        "artist": "Nas",
+        "name": "Last Real Nigga Alive",
+        "year": "2002",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "artist": "Kendrick Lamar",
+    "name": "World Negatives",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 126,
+        "artist": "Luther Ingram",
+        "name": "To the Other Man",
+        "year": "1972",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "artist": "Kendrick Lamar",
+    "name": "Rich Spirit",
+    "year": 2022,
+    "sampled": []
+  },
+  {
+    "id": 130,
+    "artist": "Kendrick Lamar",
+    "name": "Falsehood",
+    "year": 2022,
+    "sampled": [
+      {
+        "id": 129,
+        "artist": "Common",
+        "name": "The Light",
+        "year": "2000",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "artist": "Kendrick Lamar",
+    "name": "AMERICA HAS a PROBLEM (Kendrick Lamar Version)",
+    "year": 2023,
+    "sampled": [
+      {
+        "id": 131,
+        "artist": "The Real Roxanne",
+        "name": "Bang Zoom (Let's Go-Go)",
+        "year": "1986",
+        "sampled": []
+      },
+      {
+        "id": 132,
+        "artist": "Immortal Technique",
+        "name": "Dance With the Devil",
+        "year": "2001",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "artist": "Kendrick Lamar",
+    "name": "The Hillbillies",
+    "year": 2023,
+    "sampled": [
+      {
+        "id": 134,
+        "artist": "Drake",
+        "name": "Sticky",
+        "year": "2022",
+        "sampled": []
+      },
+      {
+        "id": 135,
+        "artist": "Bon Iver",
+        "name": "PDLIF",
+        "year": "2020",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "artist": "Kendrick Lamar",
+    "name": "Kali Love",
+    "year": 2023,
+    "sampled": [
+      {
+        "id": 137,
+        "artist": "Joe Cocker",
+        "name": "Woman to Woman",
+        "year": "1972",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "artist": "Kendrick Lamar",
+    "name": "Like That",
+    "year": 2024,
+    "sampled": [
+      {
+        "id": 139,
+        "artist": "Rodney O and Joe Cooley",
+        "name": "Everlasting Bass",
+        "year": "1987",
+        "sampled": []
+      },
+      {
+        "id": 140,
+        "artist": "Eazy-E",
+        "name": "Eazy-Duz-It",
+        "year": "1988",
+        "sampled": []
+      },
+      {
+        "id": 141,
+        "artist": "Birdman",
+        "name": "Pop Bottles",
+        "year": "2007",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "artist": "Kendrick Lamar",
+    "name": "Euphoria",
+    "year": 2024,
+    "sampled": [
+      {
+        "id": 143,
+        "artist": "Teddy Pendergrass",
+        "name": "You're My Latest, My Greatest Inspiration",
+        "year": "1981",
+        "sampled": []
+      },
+      {
+        "id": 144,
+        "artist": "Kanye West",
+        "name": "Get Em High",
+        "year": "2004",
+        "sampled": []
+      },
+      {
+        "id": 145,
+        "artist": "The Wiz",
+        "name": "The Wiz's Real Identity",
+        "year": "1978",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "artist": "DJ Collo",
+    "name": "6:16 in LA",
+    "year": "2024",
+    "sampled": []
+  },
+  {
+    "id": 149,
+    "artist": "Kendrick Lamar",
+    "name": "6:16 in LA",
+    "year": 2024,
+    "sampled": [
+      {
+        "id": 147,
+        "artist": "Al Green",
+        "name": "What a Wonderful Thing Love Is",
+        "year": "1972",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "artist": "Kendrick Lamar",
+    "name": "Meet the Grahams",
+    "year": 2024,
+    "sampled": [
+      {
+        "id": 150,
+        "artist": "Andrew Wartts",
+        "name": "Can You Say Yeah?",
+        "year": "1982",
+        "sampled": []
+      },
+      {
+        "id": 151,
+        "artist": "Timothy Carpenter",
+        "name": "I Want to Make It",
+        "year": "1978",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "artist": "Kendrick Lamar",
+    "name": "Not Like Us",
+    "year": 2024,
+    "sampled": [
+      {
+        "id": 153,
+        "artist": "Monk Higgins",
+        "name": "I Believe to My Soul",
+        "year": "1968",
+        "sampled": []
+      },
+      {
+        "id": 154,
+        "artist": "YG",
+        "name": "I'm Good",
+        "year": "2011",
+        "sampled": []
+      },
+      {
+        "id": 155,
+        "artist": "The Sixth Sense",
+        "name": "I See Dead People",
+        "year": "1999",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "artist": "Kendrick Lamar",
+    "name": "Homage to Daz & Soopafly",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 157,
+        "artist": "Snoop Dogg",
+        "name": "Gin and Juice",
+        "year": "1993",
+        "sampled": []
+      },
+      {
+        "id": 158,
+        "artist": "Mack 10",
+        "name": "Only in California",
+        "year": "1997",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "artist": "Kendrick Lamar",
+    "name": "I Hate You",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 160,
+        "artist": "Sigur R\u00f3s",
+        "name": "N\u00fd Batter\u00ed",
+        "year": "1999",
+        "sampled": []
+      },
+      {
+        "id": 161,
+        "artist": "Bill Withers",
+        "name": "Use Me",
+        "year": "1972",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "artist": "Kendrick Lamar",
+    "name": "The Heart Pt. 1",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 163,
+        "artist": "Mos Def",
+        "name": "Umi Says",
+        "year": "1999",
+        "sampled": []
+      },
+      {
+        "id": 164,
+        "artist": "Bilal",
+        "name": "Sometimes",
+        "year": "2001",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "artist": "Kendrick Lamar",
+    "name": "Turn Me Up",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 166,
+        "artist": "John Abercrombie",
+        "name": "Timeless",
+        "year": "1974",
+        "sampled": []
+      },
+      {
+        "id": 167,
+        "artist": "The Mohawks",
+        "name": "The Champ",
+        "year": "1968",
+        "sampled": []
+      },
+      {
+        "id": 168,
+        "artist": "Redman",
+        "name": "Let's Get Dirty (I Can't Get in Da Club)",
+        "year": "2001",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "artist": "Kendrick Lamar",
+    "name": "Diary of a Broke Nigga",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 170,
+        "artist": "The Moments",
+        "name": "What's Your Name",
+        "year": "1974",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "artist": "Kendrick Lamar",
+    "name": "The Heart Pt. 2",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 172,
+        "artist": "The Roots",
+        "name": "A Peace of Light",
+        "year": "2010",
+        "sampled": []
+      },
+      {
+        "id": 173,
+        "artist": "Jay-Z",
+        "name": "Get Your Mind Right Mami",
+        "year": "2000",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "artist": "Kendrick Lamar",
+    "name": "R.O.T.C. (Interlude)",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 175,
+        "artist": "Bobby Caldwell",
+        "name": "Open Your Eyes",
+        "year": "1980",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "artist": "Kendrick Lamar",
+    "name": "Heaven & Hell",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 177,
+        "artist": "Bobby Lyle",
+        "name": "Believe",
+        "year": "1978",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "artist": "Kendrick Lamar",
+    "name": "Ignorance Is Bliss",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 179,
+        "artist": "D'Angelo",
+        "name": "Alright",
+        "year": "1995",
+        "sampled": []
+      },
+      {
+        "id": 180,
+        "artist": "Nancy Wilson",
+        "name": "Loving You",
+        "year": "1994",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "artist": "Tae Beast",
+    "name": "Kayden's Interlude",
+    "year": "2010",
+    "sampled": []
+  },
+  {
+    "id": 185,
+    "artist": "Kendrick Lamar",
+    "name": "Growing Apart (From Everything)",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 182,
+        "artist": "Bobby Cook",
+        "name": "On the Way",
+        "year": "1970",
+        "sampled": []
+      },
+      {
+        "id": 183,
+        "artist": "Stylus",
+        "name": "Hangin'",
+        "year": "1978",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "artist": "Kendrick Lamar",
+    "name": "Night of the Living Junkies",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 186,
+        "artist": "Kanye West",
+        "name": "The New Workout Plan",
+        "year": "2004",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "artist": "Kendrick Lamar",
+    "name": "A Little Appalled",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 188,
+        "artist": "Kanye West",
+        "name": "So Appalled",
+        "year": "2010",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "artist": "Kendrick Lamar",
+    "name": "Monster",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 190,
+        "artist": "Kanye West",
+        "name": "Monster",
+        "year": "2010",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "artist": "Kendrick Lamar",
+    "name": "Alien Girl (Today W/ Her)",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 192,
+        "artist": "Q-Tip",
+        "name": "Let's Ride",
+        "year": "1999",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "artist": "Kendrick Lamar",
+    "name": "Barbed Wire",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 194,
+        "artist": "Sven Torstenson",
+        "name": "Floating Illusions",
+        "year": "1980",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "artist": "Kendrick Lamar",
+    "name": "Purp and Yellow",
+    "year": 2011,
+    "sampled": []
+  },
+  {
+    "id": 198,
+    "artist": "Kendrick Lamar",
+    "name": "Textbook Stuff",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 197,
+        "artist": "Imogen Heap",
+        "name": "Speeding Cars",
+        "year": "2006",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "artist": "Kendrick Lamar",
+    "name": "Thirsty",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 199,
+        "artist": "Stevie Wonder",
+        "name": "Rocket Love",
+        "year": "1980",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "artist": "Kendrick Lamar",
+    "name": "The Spiteful Chant",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 201,
+        "artist": "Woodkid",
+        "name": "Iron",
+        "year": "2011",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "artist": "Kendrick Lamar",
+    "name": "Keisha's Song (Her Pain)",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 203,
+        "artist": "The Alan Parsons Project",
+        "name": "Old and Wise",
+        "year": "1982",
+        "sampled": []
+      },
+      {
+        "id": 204,
+        "artist": "Mountain",
+        "name": "Long Red",
+        "year": "1972",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "artist": "Kendrick Lamar",
+    "name": "Don't Wanna Know (Total Ape Remix)",
+    "year": 2017,
+    "sampled": []
+  },
+  {
+    "id": 207,
+    "artist": "Kendrick Lamar",
+    "name": "Don't Wanna Know (Fareoh Remix)",
+    "year": 2017,
+    "sampled": []
+  },
+  {
+    "id": 208,
+    "artist": "Kendrick Lamar",
+    "name": "Don't Wanna Know (Ryan Riback Remix)",
+    "year": 2017,
+    "sampled": []
+  },
+  {
+    "id": 212,
+    "artist": "Kendrick Lamar",
+    "name": "Power",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 209,
+        "artist": "Bootsy's Rubber Band",
+        "name": "May the Force Be With You",
+        "year": "1978",
+        "sampled": []
+      },
+      {
+        "id": 210,
+        "artist": "Herbie Hancock",
+        "name": "Bubbles",
+        "year": "1975",
+        "sampled": []
+      },
+      {
+        "id": 211,
+        "artist": "Christine Perfect",
+        "name": "And That's Saying a Lot",
+        "year": "1970",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "artist": "Captain Cuts",
+    "name": "Emoworld",
+    "year": "2018",
+    "sampled": []
+  },
+  {
+    "id": 215,
+    "artist": "Kendrick Lamar",
+    "name": "HUMBLE. (Skrillex Remix)",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 213,
+        "artist": "Lyn Collins",
+        "name": "Think (About It)",
+        "year": "1972",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "artist": "Kendrick Lamar",
+    "name": "American Dream",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 216,
+        "artist": "Bilal",
+        "name": "Flying",
+        "year": "2010",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "artist": "Travis Scott",
+    "name": "Big Shot",
+    "year": "2018",
+    "sampled": []
+  },
+  {
+    "id": 219,
+    "artist": "King Los",
+    "name": "New Freezer",
+    "year": "2017",
+    "sampled": []
+  },
+  {
+    "id": 220,
+    "artist": "Lil Wayne",
+    "name": "New Freezer",
+    "year": "2017",
+    "sampled": []
+  },
+  {
+    "id": 221,
+    "artist": "Kendrick Lamar",
+    "name": "New Freezer",
+    "year": 2017,
+    "sampled": []
+  },
+  {
+    "id": 222,
+    "artist": "Otsochodzi",
+    "name": "Wszystko Mija",
+    "year": "2024",
+    "sampled": []
+  },
+  {
+    "id": 223,
+    "artist": "Kendrick Lamar",
+    "name": "LOVE.",
+    "year": 2017,
+    "sampled": []
+  },
+  {
+    "id": 224,
+    "artist": "Kendrick Lamar",
+    "name": "Walk on By",
+    "year": 2017,
+    "sampled": []
+  },
+  {
+    "id": 225,
+    "artist": "Kendrick Lamar",
+    "name": "Walk on by (Chopnotslop Remix)",
+    "year": 2017,
+    "sampled": []
+  },
+  {
+    "id": 226,
+    "artist": "Alex Aiono",
+    "name": "Goosebumps, Childs Play, and Juke Jam Mashup",
+    "year": "2016",
+    "sampled": []
+  },
+  {
+    "id": 227,
+    "artist": "PARTYNEXTDOOR",
+    "name": "Don't Tell Me",
+    "year": "2017",
+    "sampled": []
+  },
+  {
+    "id": 228,
+    "artist": "Alex Aiono",
+    "name": "Best Songs of 2016 Mashup",
+    "year": "2016",
+    "sampled": []
+  },
+  {
+    "id": 229,
+    "artist": "Kendrick Lamar",
+    "name": "Goosebumps",
+    "year": 2016,
+    "sampled": []
+  },
+  {
+    "id": 233,
+    "artist": "Kendrick Lamar",
+    "name": "Really Doe",
+    "year": 2016,
+    "sampled": [
+      {
+        "id": 230,
+        "artist": "Giovanni Cristiani",
+        "name": "Fragments of Crystal",
+        "year": "1985",
+        "sampled": []
+      },
+      {
+        "id": 231,
+        "artist": "The Montereys",
+        "name": "Get Down",
+        "year": "1971",
+        "sampled": []
+      },
+      {
+        "id": 232,
+        "artist": "Frayser Boy",
+        "name": "Wish a Mutha Would",
+        "year": "2003",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "artist": "Glizz",
+    "name": "Gospel",
+    "year": "2022",
+    "sampled": []
+  },
+  {
+    "id": 237,
+    "artist": "Kendrick Lamar",
+    "name": "Wat's Wrong",
+    "year": 2016,
+    "sampled": [
+      {
+        "id": 234,
+        "artist": "Stanley Cowell",
+        "name": "Here I Am",
+        "year": "1977",
+        "sampled": []
+      },
+      {
+        "id": 235,
+        "artist": "Timbaland",
+        "name": "Man Undercover",
+        "year": "1997",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "artist": "Fablo",
+    "name": "The Greatest",
+    "year": "2016",
+    "sampled": []
+  },
+  {
+    "id": 239,
+    "artist": "Kendrick Lamar",
+    "name": "The Greatest",
+    "year": 2016,
+    "sampled": []
+  },
+  {
+    "id": 240,
+    "artist": "Alex Aiono",
+    "name": "Don't Wanna Know & My Way Mashup",
+    "year": "2016",
+    "sampled": []
+  },
+  {
+    "id": 241,
+    "artist": "Kendrick Lamar",
+    "name": "Don't Wanna Know",
+    "year": 2016,
+    "sampled": []
+  },
+  {
+    "id": 243,
+    "artist": "J. Nolan",
+    "name": "June 16",
+    "year": "2020",
+    "sampled": []
+  },
+  {
+    "id": 244,
+    "artist": "Kendrick Lamar",
+    "name": "Conrad Tokyo",
+    "year": 2016,
+    "sampled": [
+      {
+        "id": 242,
+        "artist": "The J.B.'s",
+        "name": "Gimme Some More",
+        "year": "1972",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "artist": "Koherent",
+    "name": "Changes",
+    "year": "2017",
+    "sampled": []
+  },
+  {
+    "id": 247,
+    "artist": "Kendrick Lamar",
+    "name": "God Is Fair, Sexy Nasty",
+    "year": 2016,
+    "sampled": [
+      {
+        "id": 245,
+        "artist": "Zodiac (Jeremy Rose)",
+        "name": "Come",
+        "year": "2012",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "artist": "Kendrick Lamar",
+    "name": "Sidewalks",
+    "year": 2016,
+    "sampled": [
+      {
+        "id": 248,
+        "artist": "Fugees",
+        "name": "Fu-Gee-La",
+        "year": "1995",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "artist": "Kendrick Lamar",
+    "name": "Untitled 08 09.06.2014",
+    "year": 2016,
+    "sampled": [
+      {
+        "id": 250,
+        "artist": "Funkadelic",
+        "name": "Ain't That Funkin' Kinda Hard on You? (We Ain't Neva Gonna Stop Remix)",
+        "year": "2016",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "artist": "Kendrick Lamar",
+    "name": "The Cypher 2011 Pt. 2",
+    "year": 2016,
+    "sampled": [
+      {
+        "id": 252,
+        "artist": "James Brown",
+        "name": "The Payback",
+        "year": "1973",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "artist": "Kendrick Lamar",
+    "name": "She Needs Me (Remix)",
+    "year": 2010,
+    "sampled": []
+  },
+  {
+    "id": 255,
+    "artist": "Kendrick Lamar",
+    "name": "I Do This (Remix)",
+    "year": 2010,
+    "sampled": []
+  },
+  {
+    "id": 259,
+    "artist": "Kendrick Lamar",
+    "name": "P&P 1.5",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 256,
+        "artist": "Rick James",
+        "name": "Give It to Me Baby",
+        "year": "1981",
+        "sampled": []
+      },
+      {
+        "id": 257,
+        "artist": "The Roots",
+        "name": "Clock With No Hands",
+        "year": "2006",
+        "sampled": []
+      },
+      {
+        "id": 258,
+        "artist": "OutKast",
+        "name": "Vibrate",
+        "year": "2003",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "artist": "Mariah Carey",
+    "name": "Thirsty (Remix)",
+    "year": "2014",
+    "sampled": []
+  },
+  {
+    "id": 262,
+    "artist": "Kendrick Lamar",
+    "name": "Cut You Off (To Grow Closer)",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 260,
+        "artist": "J.J. Johnson",
+        "name": "Harlem Love Theme",
+        "year": "1972",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "artist": "Kendrick Lamar",
+    "name": "Opposites Attract (Tomorrow Without Her)",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 263,
+        "artist": "Stetsasonic",
+        "name": "Go Stetsa I",
+        "year": "1986",
+        "sampled": []
+      },
+      {
+        "id": 264,
+        "artist": "Lamont Carey",
+        "name": "She Says She Loves Me",
+        "year": "2007",
+        "sampled": []
+      },
+      {
+        "id": 265,
+        "artist": "Xarbrooklynboy91",
+        "name": "Air Horn",
+        "year": "2010",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "artist": "Kendrick Lamar",
+    "name": "Michael Jordan",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 267,
+        "artist": "Lil Wayne",
+        "name": "Swag Surf",
+        "year": "2009",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "artist": "Kendrick Lamar",
+    "name": "Average Joe",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 269,
+        "artist": "Eminem",
+        "name": "Who Knew",
+        "year": "2000",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "artist": "Kendrick Lamar",
+    "name": "H.O.C.",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 271,
+        "artist": "Mass Production",
+        "name": "Galaxy",
+        "year": "1976",
+        "sampled": []
+      },
+      {
+        "id": 272,
+        "artist": "Teddy Pendergrass",
+        "name": "And if I Had",
+        "year": "1977",
+        "sampled": []
+      },
+      {
+        "id": 273,
+        "artist": "Jay-Z",
+        "name": "Imaginary Player",
+        "year": "1997",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "artist": "Kendrick Lamar",
+    "name": "Look Out for Detox",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 275,
+        "artist": "Childish Gambino",
+        "name": "You Know Me",
+        "year": "2010",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "artist": "Ab-Soul",
+    "name": "Track Two",
+    "year": "2012",
+    "sampled": []
+  },
+  {
+    "id": 279,
+    "artist": "Ab-Soul",
+    "name": "Rush",
+    "year": "2010",
+    "sampled": []
+  },
+  {
+    "id": 280,
+    "artist": "Kendrick Lamar",
+    "name": "Ignorance",
+    "year": 2010,
+    "sampled": [
+      {
+        "id": 277,
+        "artist": "Jay-Z",
+        "name": "Ignorant Shit",
+        "year": "2007",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "artist": "U2",
+    "name": "American Soul",
+    "year": "2017",
+    "sampled": []
+  },
+  {
+    "id": 284,
+    "artist": "Kendrick Lamar",
+    "name": "XXX.",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 281,
+        "artist": "James Brown",
+        "name": "Get Up Offa That Thing",
+        "year": "1976",
+        "sampled": []
+      },
+      {
+        "id": 282,
+        "artist": "Young-Holt Unlimited",
+        "name": "Wah Wah Man",
+        "year": "1971",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "artist": "Flowervillain",
+    "name": "In My Element",
+    "year": "2022",
+    "sampled": []
+  },
+  {
+    "id": 287,
+    "artist": "Dumphop",
+    "name": "Damnesiac",
+    "year": "2017",
+    "sampled": []
+  },
+  {
+    "id": 288,
+    "artist": "Kendrick Lamar",
+    "name": "ELEMENT.",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 285,
+        "artist": "Juvenile",
+        "name": "Ha",
+        "year": "1998",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "artist": "Kendrick Lamar",
+    "name": "LUST.",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 289,
+        "artist": "Rat Boy",
+        "name": "Knock Knock Knock",
+        "year": "2015",
+        "sampled": []
+      },
+      {
+        "id": 290,
+        "artist": "Beastie Boys",
+        "name": "Paul Revere",
+        "year": "1986",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "artist": "9th Wonder",
+    "name": "LoveKills!!!",
+    "year": "2017",
+    "sampled": []
+  },
+  {
+    "id": 293,
+    "artist": "Pex",
+    "name": "Hokusai",
+    "year": "2017",
+    "sampled": []
+  },
+  {
+    "id": 295,
+    "artist": "Kendrick Lamar",
+    "name": "PRIDE.",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 294,
+        "artist": "Kendrick Lamar",
+        "name": "The Heart Part 4",
+        "year": "2017",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "artist": "Kendrick Lamar",
+    "name": "GOD.",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 296,
+        "artist": "Illmind",
+        "name": "End of the World",
+        "year": "2014",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "artist": "Eminem",
+    "name": "Greatest",
+    "year": "2018",
+    "sampled": []
+  },
+  {
+    "id": 300,
+    "artist": "Ne-Yo",
+    "name": "Humble",
+    "year": "2017",
+    "sampled": []
+  },
+  {
+    "id": 301,
+    "artist": "Kendrick Lamar",
+    "name": "HUMBLE.",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 298,
+        "artist": "Adams & Fleisner",
+        "name": "Pulsar City Alarm",
+        "year": "1984",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "artist": "Kendrick Lamar",
+    "name": "Mask Off (Remix)",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 302,
+        "artist": "Kendrick Lamar",
+        "name": "YAH.",
+        "year": "2017",
+        "sampled": []
+      },
+      {
+        "id": 303,
+        "artist": "Drake",
+        "name": "Jumpman",
+        "year": "2015",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "artist": "Future",
+    "name": "Mask Off (Remix)",
+    "year": "2017",
+    "sampled": []
+  },
+  {
+    "id": 307,
+    "artist": "Kendrick Lamar",
+    "name": "YAH.",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 305,
+        "artist": "Billy Paul",
+        "name": "How Good Is Your Game",
+        "year": "1976",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "artist": "Kendrick Lamar",
+    "name": "Doves in the Wind",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 308,
+        "artist": "Busta Rhymes",
+        "name": "Turn Me Up Some",
+        "year": "2002",
+        "sampled": []
+      },
+      {
+        "id": 309,
+        "artist": "Climax Blues Band",
+        "name": "Louisiana Blues",
+        "year": "1970",
+        "sampled": []
+      },
+      {
+        "id": 310,
+        "artist": "Redman",
+        "name": "Let's Get Dirty (I Can't Get in Da Club)",
+        "year": "2001",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "artist": "Kendrick Lamar",
+    "name": "Don't Wanna Know (BRAVVO Remix)",
+    "year": 2017,
+    "sampled": []
+  },
+  {
+    "id": 313,
+    "artist": "Kendrick Lamar",
+    "name": "Auntie Diaries",
+    "year": 2022,
+    "sampled": []
+  },
+  {
+    "id": 315,
+    "artist": "917 Rackz",
+    "name": "Pocket Rocket",
+    "year": "2022",
+    "sampled": []
+  },
+  {
+    "id": 316,
+    "artist": "Kendrick Lamar",
+    "name": "United in Grief",
+    "year": 2022,
+    "sampled": [
+      {
+        "id": 314,
+        "artist": "NOT THE TWOS",
+        "name": "PARADISE",
+        "year": "2022",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "artist": "Kendrick Lamar",
+    "name": "Mother I Sober",
+    "year": 2022,
+    "sampled": [
+      {
+        "id": 317,
+        "artist": "NOT THE TWOS",
+        "name": "PARADISE",
+        "year": "2022",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "artist": "Kendrick Lamar",
+    "name": "Savior - Interlude",
+    "year": 2022,
+    "sampled": []
+  },
+  {
+    "id": 320,
+    "artist": "aNTOJE",
+    "name": "RE4",
+    "year": "2023",
+    "sampled": []
+  },
+  {
+    "id": 321,
+    "artist": "Kendrick Lamar",
+    "name": "Silent Hill",
+    "year": 2022,
+    "sampled": []
+  },
+  {
+    "id": 325,
+    "artist": "Kendrick Lamar",
+    "name": "Mr. Morale",
+    "year": 2022,
+    "sampled": [
+      {
+        "id": 322,
+        "artist": "Thedallascowboyshow",
+        "name": "Dallas Cowboys Look Pathetic vs the Seahawks",
+        "year": "2012",
+        "sampled": []
+      },
+      {
+        "id": 323,
+        "artist": "Apple Inc.",
+        "name": "South African Voice Effects",
+        "year": "2013",
+        "sampled": []
+      },
+      {
+        "id": 324,
+        "artist": "Apple Inc.",
+        "name": "South African Singers",
+        "year": "2013",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "artist": "Kendrick Lamar",
+    "name": "Savior",
+    "year": 2022,
+    "sampled": [
+      {
+        "id": 326,
+        "artist": "River Tiber",
+        "name": "Hypnotized",
+        "year": "2020",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "artist": "DWELLS",
+    "name": "Take Off Everything",
+    "year": "2023",
+    "sampled": []
+  },
+  {
+    "id": 329,
+    "artist": "Leroy",
+    "name": "Jack'd My Swag ( & Those DAMN PRICES )",
+    "year": "2023",
+    "sampled": []
+  },
+  {
+    "id": 330,
+    "artist": "Kendrick Lamar",
+    "name": "N95",
+    "year": 2022,
+    "sampled": []
+  },
+  {
+    "id": 331,
+    "artist": "Kendrick Lamar",
+    "name": "Purple Hearts",
+    "year": 2022,
+    "sampled": []
+  },
+  {
+    "id": 333,
+    "artist": "Departure",
+    "name": "Freudian Analysis (You'll Never Stop Suicidal Weakness)",
+    "year": "2022",
+    "sampled": []
+  },
+  {
+    "id": 334,
+    "artist": "Kendrick Lamar",
+    "name": "Count Me Out",
+    "year": 2022,
+    "sampled": [
+      {
+        "id": 332,
+        "artist": "NOT THE TWOS",
+        "name": "PARADISE",
+        "year": "2022",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "artist": "Kendrick Lamar",
+    "name": "Heart Pt. 6",
+    "year": 2024,
+    "sampled": [
+      {
+        "id": 335,
+        "artist": "SWV",
+        "name": "Use Your Heart",
+        "year": "1996",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "artist": "Kendrick Lamar",
+    "name": "Squabble Up",
+    "year": 2024,
+    "sampled": [
+      {
+        "id": 337,
+        "artist": "Debbie Deb",
+        "name": "When I Hear Music",
+        "year": "1983",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "artist": "Kendrick Lamar",
+    "name": "Reincarnated",
+    "year": 2024,
+    "sampled": [
+      {
+        "id": 339,
+        "artist": "2Pac",
+        "name": "Made Niggas",
+        "year": "1996",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "artist": "Kendrick Lamar",
+    "name": "Luther",
+    "year": 2024,
+    "sampled": [
+      {
+        "id": 341,
+        "artist": "Cheryl Lynn",
+        "name": "If This World Were Mine",
+        "year": "1982",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "artist": "Kendrick Lamar",
+    "name": "Tv Off",
+    "year": 2024,
+    "sampled": [
+      {
+        "id": 343,
+        "artist": "Monk Higgins",
+        "name": "Mac Arthur Park",
+        "year": "1968",
+        "sampled": []
+      },
+      {
+        "id": 344,
+        "artist": "John Barry",
+        "name": "The Black Hole - Overture",
+        "year": "1979",
+        "sampled": []
+      },
+      {
+        "id": 345,
+        "artist": "YG",
+        "name": "I'm Good",
+        "year": "2011",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "artist": "Kendrick Lamar",
+    "name": "Peekaboo",
+    "year": 2024,
+    "sampled": [
+      {
+        "id": 347,
+        "artist": "Little Beaver",
+        "name": "Give a Helping Hand",
+        "year": "1972",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "artist": "Kendrick Lamar",
+    "name": "Hey Now",
+    "year": 2024,
+    "sampled": [
+      {
+        "id": 349,
+        "artist": "D4L",
+        "name": "Scotty",
+        "year": "2005",
+        "sampled": []
+      },
+      {
+        "id": 350,
+        "artist": "Traditional Folk",
+        "name": "Eenie, Meenie, Miny, Moe",
+        "year": "1815",
+        "sampled": []
+      },
+      {
+        "id": 351,
+        "artist": "Metro Boomin",
+        "name": "No More",
+        "year": "2018",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "artist": "Kendrick Lamar",
+    "name": "30 for 30",
+    "year": 2024,
+    "sampled": [
+      {
+        "id": 353,
+        "artist": "Switch (Band)",
+        "name": "I Call Your Name",
+        "year": "1979",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "artist": "Kendrick Lamar",
+    "name": "Put That Gun Up",
+    "year": 2006,
+    "sampled": [
+      {
+        "id": 355,
+        "artist": "T.I.",
+        "name": "Why You Wanna",
+        "year": "2006",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "artist": "Kendrick Lamar",
+    "name": "Try Me",
+    "year": 2008,
+    "sampled": [
+      {
+        "id": 357,
+        "artist": "Mobb Deep",
+        "name": "Bounce",
+        "year": "2001",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "artist": "Kendrick Lamar",
+    "name": "Is It Love",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 359,
+        "artist": "T\u00e9l\u00e9popmusik",
+        "name": "Don't Look Back",
+        "year": "2005",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "artist": "Kendrick Lamar",
+    "name": "Faith",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 361,
+        "artist": "Menahan Street Band",
+        "name": "Tired of Fighting",
+        "year": "2008",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 364,
+    "artist": "Kendrick Lamar",
+    "name": "P & P",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 363,
+        "artist": "The Roots",
+        "name": "Clock With No Hands",
+        "year": "2006",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 366,
+    "artist": "Kendrick Lamar",
+    "name": "I Do This",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 365,
+        "artist": "Bill Withers",
+        "name": "Don't You Want to Stay",
+        "year": "1975",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "artist": "Kendrick Lamar",
+    "name": "Wanna Be Heard",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 367,
+        "artist": "Black Milk",
+        "name": "Popular Demand",
+        "year": "2007",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "artist": "Kendrick Lamar",
+    "name": "She Needs Me",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 369,
+        "artist": "Mountain",
+        "name": "Long Red",
+        "year": "1972",
+        "sampled": []
+      },
+      {
+        "id": 370,
+        "artist": "Q-Tip",
+        "name": "Let's Ride",
+        "year": "1999",
+        "sampled": []
+      },
+      {
+        "id": 371,
+        "artist": "Dimlite",
+        "name": "Byrdshot and Bye",
+        "year": "2003",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "artist": "Kendrick Lamar",
+    "name": "Celebration",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 373,
+        "artist": "Roy Ayers Ubiquity",
+        "name": "Hummin'",
+        "year": "1971",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 376,
+    "artist": "Kendrick Lamar",
+    "name": "Today",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 375,
+        "artist": "Johnny Hammond",
+        "name": "Can't We Smile",
+        "year": "1975",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 377,
+    "artist": "Kendrick Lamar",
+    "name": "Ridin' Roun Town (Remix)",
+    "year": 2011,
+    "sampled": []
+  },
+  {
+    "id": 378,
+    "artist": "Kendrick Lamar",
+    "name": "Super Genius",
+    "year": 2011,
+    "sampled": []
+  },
+  {
+    "id": 380,
+    "artist": "Kendrick Lamar",
+    "name": "Beyonce",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 379,
+        "artist": "Johnny Hammond",
+        "name": "Call on Me",
+        "year": "1974",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 383,
+    "artist": "Kendrick Lamar",
+    "name": "Little Johnny",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 381,
+        "artist": "Bayet\u00e9",
+        "name": "Free Angela (Thoughts... And All I've Got to Say)",
+        "year": "1972",
+        "sampled": []
+      },
+      {
+        "id": 382,
+        "artist": "Reel America",
+        "name": "Malcom X Interview",
+        "year": "1963",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 385,
+    "artist": "Kendrick Lamar",
+    "name": "Up Against the Wall",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 384,
+        "artist": "Teddy Pendergrass",
+        "name": "Is It Still Good to Ya?",
+        "year": "1980",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "artist": "Kendrick Lamar",
+    "name": "My Mind Drifts",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 386,
+        "artist": "Darondo",
+        "name": "Sure Know How to Love Me",
+        "year": "2005",
+        "sampled": []
+      },
+      {
+        "id": 387,
+        "artist": "Detroit Emeralds",
+        "name": "You're Getting a Little Too Smart",
+        "year": "1973",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "artist": "Kendrick Lamar",
+    "name": "Enjoy (West Coastin')",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 389,
+        "artist": "Freddie Robinson",
+        "name": "Georgia on My Mind",
+        "year": "1973",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "artist": "Kendrick Lamar",
+    "name": "Outrageous",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 391,
+        "artist": "Sia",
+        "name": "Electric Bird",
+        "year": "2007",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 393,
+    "artist": "DJ OG Uncle Skip",
+    "name": "Betigotsumweed",
+    "year": "2017",
+    "sampled": []
+  },
+  {
+    "id": 394,
+    "artist": "Kendrick Lamar",
+    "name": "Birds & the Beez",
+    "year": 2011,
+    "sampled": []
+  },
+  {
+    "id": 397,
+    "artist": "ESTA.",
+    "name": "Ble$$ed",
+    "year": "2013",
+    "sampled": []
+  },
+  {
+    "id": 398,
+    "artist": "Kendrick Lamar",
+    "name": "Blessed",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 395,
+        "artist": "Soulstice",
+        "name": "Fall Into You",
+        "year": "2001",
+        "sampled": []
+      },
+      {
+        "id": 396,
+        "artist": "Snoop Dogg",
+        "name": "Ain't No Fun (If the Homies Can't Have None)",
+        "year": "1993",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "artist": "Kendrick Lamar",
+    "name": "Traffic Jam (Easy Bake Remix)",
+    "year": 2015,
+    "sampled": []
+  },
+  {
+    "id": 403,
+    "artist": "Kendrick Lamar",
+    "name": "No More Parties in L.A.",
+    "year": 2016,
+    "sampled": [
+      {
+        "id": 400,
+        "artist": "Junie Morrison",
+        "name": "Suzie Thundertussy",
+        "year": "1976",
+        "sampled": []
+      },
+      {
+        "id": 401,
+        "artist": "Johnny \"Guitar\" Watson",
+        "name": "Give Me My Love",
+        "year": "1977",
+        "sampled": []
+      },
+      {
+        "id": 402,
+        "artist": "Larry Graham",
+        "name": "Stand Up and Shout About Love",
+        "year": "1980",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "artist": "Kendrick Lamar",
+    "name": "Untitled 08 09.06.2014",
+    "year": "2016",
+    "sampled": []
+  },
+  {
+    "id": 405,
+    "artist": "Kendrick Lamar",
+    "name": "Ain't That Funkin' Kinda Hard on You? (We Ain't Neva Gonna Stop Remix)",
+    "year": 2016,
+    "sampled": []
+  },
+  {
+    "id": 409,
+    "artist": "Kendrick Lamar",
+    "name": "The New Cupid",
+    "year": 2016,
+    "sampled": [
+      {
+        "id": 406,
+        "artist": "Jean Knight",
+        "name": "Mr. Big Stuff",
+        "year": "1971",
+        "sampled": []
+      },
+      {
+        "id": 407,
+        "artist": "Raphael Saadiq",
+        "name": "Oh Girl",
+        "year": "2008",
+        "sampled": []
+      },
+      {
+        "id": 408,
+        "artist": "Jimmie Walker",
+        "name": "The Apollo",
+        "year": "1975",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 410,
+    "artist": "Ali Shaheed Muhammad",
+    "name": "Questions",
+    "year": "2018",
+    "sampled": []
+  },
+  {
+    "id": 411,
+    "artist": "Kendrick Lamar",
+    "name": "Untitled 06 06.30.2014.",
+    "year": 2016,
+    "sampled": []
+  },
+  {
+    "id": 413,
+    "artist": "Joey Trap",
+    "name": "Pump Fake",
+    "year": "2017",
+    "sampled": []
+  },
+  {
+    "id": 414,
+    "artist": "Snotty Nose Rez Kids",
+    "name": "Kobe Face",
+    "year": "2020",
+    "sampled": []
+  },
+  {
+    "id": 415,
+    "artist": "Kendrick Lamar",
+    "name": "Untitled 07 Levitate",
+    "year": 2016,
+    "sampled": [
+      {
+        "id": 412,
+        "artist": "Frank Dukes",
+        "name": "Studio B 121",
+        "year": "2015",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 419,
+    "artist": "Kendrick Lamar",
+    "name": "Freedom",
+    "year": 2016,
+    "sampled": [
+      {
+        "id": 416,
+        "artist": "Kaleidoscope (Psychedelic Rock Band)",
+        "name": "Let Me Try",
+        "year": "1969",
+        "sampled": []
+      },
+      {
+        "id": 417,
+        "artist": "Prisoner 22",
+        "name": "Stewball",
+        "year": "1947",
+        "sampled": []
+      },
+      {
+        "id": 418,
+        "artist": "Reverend R. C. Crenshaw",
+        "name": "Collection Speech / Unidentified Lining Hymn",
+        "year": "1959",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "artist": "ScHoolboy Q",
+    "name": "THat Part",
+    "year": "2016",
+    "sampled": []
+  },
+  {
+    "id": 421,
+    "artist": "Doechii",
+    "name": "BOOM BAP",
+    "year": "2024",
+    "sampled": []
+  },
+  {
+    "id": 422,
+    "artist": "Kendrick Lamar",
+    "name": "Untitled 02 06.23.2014.",
+    "year": 2016,
+    "sampled": []
+  },
+  {
+    "id": 423,
+    "artist": "Kendrick Lamar",
+    "name": "THat Part (Black Hippy Remix)",
+    "year": 2016,
+    "sampled": []
+  },
+  {
+    "id": 425,
+    "artist": "Kendrick Lamar",
+    "name": "Holy Key",
+    "year": 2016,
+    "sampled": [
+      {
+        "id": 424,
+        "artist": "The Arka Teks",
+        "name": "Showstoppa",
+        "year": "2010",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "artist": "Kendrick Lamar",
+    "name": "How Many Drinks? (Remix)",
+    "year": 2013,
+    "sampled": [
+      {
+        "id": 426,
+        "artist": "Kendrick Lamar",
+        "name": "Swimming Pools (Drank)",
+        "year": "2012",
+        "sampled": []
+      },
+      {
+        "id": 427,
+        "artist": "A Tribe Called Quest",
+        "name": "Scenario",
+        "year": "1991",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 429,
+    "artist": "Kendrick Lamar",
+    "name": "Looks Good With Trouble",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 431,
+    "artist": "Kendrick Lamar",
+    "name": "We Up",
+    "year": 2013,
+    "sampled": [
+      {
+        "id": 430,
+        "artist": "Daft Punk",
+        "name": "Something About Us",
+        "year": "2001",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 434,
+    "artist": "J. Cole",
+    "name": "Neighbors",
+    "year": "2016",
+    "sampled": []
+  },
+  {
+    "id": 435,
+    "artist": "Kendrick Lamar",
+    "name": "Forbidden Fruit",
+    "year": 2013,
+    "sampled": [
+      {
+        "id": 432,
+        "artist": "Ronnie Foster",
+        "name": "Mystic Brew",
+        "year": "1972",
+        "sampled": []
+      },
+      {
+        "id": 433,
+        "artist": "Jay-Z",
+        "name": "Heart of the City (Ain't No Love)",
+        "year": "2001",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 436,
+    "artist": "Kendrick Lamar",
+    "name": "Bitch, Don't Kill My Vibe (International Remix)",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 437,
+    "artist": "Kendrick Lamar",
+    "name": "U.O.E.N.O. (Black Hippy Remix)",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 440,
+    "artist": "Kendrick Lamar",
+    "name": "Street Dreamin",
+    "year": 2013,
+    "sampled": [
+      {
+        "id": 438,
+        "artist": "2Pac",
+        "name": "Got My Mind Made Up",
+        "year": "1996",
+        "sampled": []
+      },
+      {
+        "id": 439,
+        "artist": "Melvin Bliss",
+        "name": "Synthetic Substitution",
+        "year": "1973",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 443,
+    "artist": "Kendrick Lamar",
+    "name": "Rossi Wine",
+    "year": 2013,
+    "sampled": [
+      {
+        "id": 441,
+        "artist": "Dexter Wansel",
+        "name": "Prelude #1",
+        "year": "1977",
+        "sampled": []
+      },
+      {
+        "id": 442,
+        "artist": "The Click",
+        "name": "Let's Get Drunk",
+        "year": "1992",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 446,
+    "artist": "Kendrick Lamar",
+    "name": "Momma",
+    "year": "2015",
+    "sampled": []
+  },
+  {
+    "id": 447,
+    "artist": "Kendrick Lamar",
+    "name": "Control (HOF)",
+    "year": 2013,
+    "sampled": [
+      {
+        "id": 444,
+        "artist": "Quilapay\u00fan",
+        "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
+        "year": "1974",
+        "sampled": []
+      },
+      {
+        "id": 445,
+        "artist": "Jay-Z",
+        "name": "Where I'm From",
+        "year": "1997",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 448,
+    "artist": "Trippy Turtle",
+    "name": "Give It 2 U (Trippy Turtle Remix)",
+    "year": "2013",
+    "sampled": []
+  },
+  {
+    "id": 449,
+    "artist": "Kendrick Lamar",
+    "name": "Give It 2 U",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 450,
+    "artist": "Kendrick Lamar",
+    "name": "Radioactive (Remix)",
+    "year": 2014,
+    "sampled": []
+  },
+  {
+    "id": 452,
+    "artist": "Kendrick Lamar",
+    "name": "So Slow",
+    "year": 2014,
+    "sampled": [
+      {
+        "id": 451,
+        "artist": "Peter Bjorn and John",
+        "name": "Amsterdam",
+        "year": "2006",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "artist": "Kendrick Lamar",
+    "name": "Backwards",
+    "year": 2014,
+    "sampled": [
+      {
+        "id": 453,
+        "artist": "Tame Impala",
+        "name": "Feels Like We Only Go Backwards",
+        "year": "2012",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 456,
+    "artist": "Kendrick Lamar",
+    "name": "Really Be (Smokin N Drinkin)",
+    "year": 2014,
+    "sampled": [
+      {
+        "id": 455,
+        "artist": "Malcolm McLaren",
+        "name": "Buffalo Gals",
+        "year": "1982",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 457,
+    "artist": "Kendrick Lamar",
+    "name": "Crime (Vice Remix)",
+    "year": 2014,
+    "sampled": []
+  },
+  {
+    "id": 459,
+    "artist": "Rae Sremmurd",
+    "name": "Set the Roof",
+    "year": "2016",
+    "sampled": []
+  },
+  {
+    "id": 460,
+    "artist": "Kendrick Lamar",
+    "name": "Buy the World",
+    "year": 2014,
+    "sampled": [
+      {
+        "id": 458,
+        "artist": "Lord Huron",
+        "name": "In the Wind",
+        "year": "2012",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 464,
+    "artist": "Kendrick Lamar",
+    "name": "Kendrick Lamar's Interlude",
+    "year": 2014,
+    "sampled": [
+      {
+        "id": 461,
+        "artist": "Eight Mile Road",
+        "name": "Life Is a Traffic Jam",
+        "year": "1997",
+        "sampled": []
+      },
+      {
+        "id": 462,
+        "artist": "Ab-Soul",
+        "name": "Ab-Souls Outro",
+        "year": "2011",
+        "sampled": []
+      },
+      {
+        "id": 463,
+        "artist": "DJ Quik",
+        "name": "Dollaz + Sense",
+        "year": "1995",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 465,
+    "artist": "Kendrick Lamar",
+    "name": "Holy Ghost (Remix)",
+    "year": 2014,
+    "sampled": []
+  },
+  {
+    "id": 467,
+    "artist": "Eshon Burgundy",
+    "name": "I Love Myself",
+    "year": "2014",
+    "sampled": []
+  },
+  {
+    "id": 468,
+    "artist": "Kendrick Lamar",
+    "name": "I",
+    "year": 2014,
+    "sampled": [
+      {
+        "id": 466,
+        "artist": "The Isley Brothers",
+        "name": "That Lady",
+        "year": "1973",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 470,
+    "artist": "Kendrick Lamar",
+    "name": "Autumn Leaves",
+    "year": 2014,
+    "sampled": [
+      {
+        "id": 469,
+        "artist": "Sterling Simms",
+        "name": "BlackHeart",
+        "year": "2012",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 471,
+    "artist": "Kendrick Lamar",
+    "name": "Bitch, Don't Kill My Vibe (The LG Mix)",
+    "year": 2012,
+    "sampled": []
+  },
+  {
+    "id": 472,
+    "artist": "Jay Rock",
+    "name": "Money Trees",
+    "year": "2012",
+    "sampled": []
+  },
+  {
+    "id": 475,
+    "artist": "Kendrick Lamar",
+    "name": "Cartoon & Cereal",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 473,
+        "artist": "TiRon",
+        "name": "Perfect",
+        "year": "2011",
+        "sampled": []
+      },
+      {
+        "id": 474,
+        "artist": "The Moments",
+        "name": "When the Morning Comes",
+        "year": "1975",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 477,
+    "artist": "Kendrick Lamar",
+    "name": "See No Evil",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 476,
+        "artist": "Snoop Dogg",
+        "name": "Murder Was the Case (Death After Visualizing Eternity)",
+        "year": "1993",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 479,
+    "artist": "Kendrick Lamar",
+    "name": "Murder",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 478,
+        "artist": "Penny Goodwin",
+        "name": "Slow Hot Wind",
+        "year": "1974",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 480,
+    "artist": "Kendrick Lamar",
+    "name": "Backseat Freestyle",
+    "year": 2012,
+    "sampled": []
+  },
+  {
+    "id": 482,
+    "artist": "Kendrick Lamar",
+    "name": "100",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 481,
+        "artist": "Jean-Michel Jarre",
+        "name": "Souvenir of China",
+        "year": "1982",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 484,
+    "artist": "Kendrick Lamar",
+    "name": "Black Boy Fly",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 483,
+        "artist": "Naughty by Nature",
+        "name": "Hip Hop Hooray",
+        "year": "1992",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 486,
+    "artist": "Kendrick Lamar",
+    "name": "The Jig Is Up (Dump'n)",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 485,
         "artist": "Kendrick Lamar",
         "name": "HiiiPoWeR",
-        "year": 2011
-    },
-    {
+        "year": "2011",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 488,
+    "artist": "Kendrick Lamar",
+    "name": "My Way",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 487,
+        "artist": "Wale",
+        "name": "Gold & Girls",
+        "year": "2011",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 490,
+    "artist": "Kendrick Lamar",
+    "name": "LMAO",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 489,
+        "artist": "Captain Sky",
+        "name": "Cream & Sugar",
+        "year": "1979",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 494,
+    "artist": "Kendrick Lamar",
+    "name": "Don't Understand",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 491,
+        "artist": "Grant Green",
+        "name": "Maybe Tomorrow",
+        "year": "1971",
+        "sampled": []
+      },
+      {
+        "id": 492,
+        "artist": "Tom Scott",
+        "name": "Sneakin' in the Back",
+        "year": "1974",
+        "sampled": []
+      },
+      {
+        "id": 493,
+        "artist": "Mountain",
+        "name": "Long Red",
+        "year": "1972",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 495,
+    "artist": "Knxwledge",
+    "name": "Nokoreus.",
+    "year": "2012",
+    "sampled": []
+  },
+  {
+    "id": 496,
+    "artist": "Kendrick Lamar",
+    "name": "Toca Tuesdays Freestyle",
+    "year": 2011,
+    "sampled": []
+  },
+  {
+    "id": 498,
+    "artist": "Kendrick Lamar",
+    "name": "Fuck Your Ethnicity",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 497,
+        "artist": "Anne Murray",
+        "name": "Put Your Hand in the Hand",
+        "year": "1970",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "artist": "Kendrick Lamar",
+    "name": "Kush & Corinthians (His Pain)",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 499,
+        "artist": "Kindred the Family Soul",
+        "name": "Rhythm of Life",
+        "year": "2002",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 502,
+    "artist": "Kendrick Lamar",
+    "name": "Taking Me Down",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 501,
+        "artist": "Buddy Miles",
+        "name": "Down by the River",
+        "year": "1970",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 504,
+    "artist": "Kendrick Lamar",
+    "name": "Ball Game",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 503,
+        "artist": "Ronnie Laws",
+        "name": "Night Breeze",
+        "year": "1976",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 506,
+    "artist": "Kendrick Lamar",
+    "name": "Kendrick Lamar",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 505,
+        "artist": "Erykah Badu",
+        "name": "Otherside of the Game",
+        "year": "1997",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 508,
+    "artist": "Kendrick Lamar",
+    "name": "Rapper Shit",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 507,
+        "artist": "Bob Wilson",
+        "name": "Jesus Is My Lord",
+        "year": "1981",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 510,
+    "artist": "Ab-Soul",
+    "name": "Kendrick Lamar's Interlude",
+    "year": "2014",
+    "sampled": []
+  },
+  {
+    "id": 511,
+    "artist": "Kendrick Lamar",
+    "name": "Ab-Souls Outro",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 509,
+        "artist": "Eight Mile Road",
+        "name": "Life Is a Traffic Jam",
+        "year": "1997",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 512,
+    "artist": "Big Sean",
+    "name": "Control (HOF)",
+    "year": "2013",
+    "sampled": []
+  },
+  {
+    "id": 513,
+    "artist": "Kendrick Lamar",
+    "name": "Get Bizy",
+    "year": 2011,
+    "sampled": []
+  },
+  {
+    "id": 514,
+    "artist": "Justice",
+    "name": "Alakazam",
+    "year": "2016",
+    "sampled": []
+  },
+  {
+    "id": 516,
+    "artist": "Kendrick Lamar",
+    "name": "Complexion (A Zulu Love)",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 515,
+        "artist": "Big Daddy Kane",
+        "name": "Ain't No Half-Steppin'",
+        "year": "1988",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 518,
+    "artist": "9th Wonder",
+    "name": "Signs",
+    "year": "2018",
+    "sampled": []
+  },
+  {
+    "id": 519,
+    "artist": "Kendrick Lamar",
+    "name": "For Sale?",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 517,
+        "artist": "Traditional Folk",
+        "name": "Roses Are Red",
+        "year": "1784",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 521,
+    "artist": "Flyingkitty",
+    "name": "This Is America 2",
+    "year": "2018",
+    "sampled": []
+  },
+  {
+    "id": 522,
+    "artist": "Departure",
+    "name": "Freudian Analysis (You'll Never Stop Suicidal Weakness)",
+    "year": "2022",
+    "sampled": []
+  },
+  {
+    "id": 523,
+    "artist": "Kendrick Lamar",
+    "name": "U",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 520,
+        "artist": "WhoAreI",
+        "name": "Loving You Ain't Complicated",
+        "year": "2014",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 524,
+    "artist": "Kendrick Lamar",
+    "name": "All Day (Remix)",
+    "year": 2015,
+    "sampled": []
+  },
+  {
+    "id": 526,
+    "artist": "Kendrick Lamar",
+    "name": "Thuggin'",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 525,
+        "artist": "Yomo & Maulkie",
+        "name": "For the Love of Money",
+        "year": "1991",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 528,
+    "artist": "Dawin",
+    "name": "Dessert (Pop and Hip-Hop Mashup) 2015",
+    "year": "2015",
+    "sampled": []
+  },
+  {
+    "id": 529,
+    "artist": "DJ AKS",
+    "name": "Bad Blood (DJ AKS Remix)",
+    "year": "2015",
+    "sampled": []
+  },
+  {
+    "id": 530,
+    "artist": "Kendrick Lamar",
+    "name": "Bad Blood",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 527,
         "artist": "Kendrick Lamar",
-        "name": "No Makeup (Her Vice)",
-        "year": 2011
-    },
-    {
+        "name": "Backseat Freestyle",
+        "year": "2012",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 531,
+    "artist": "Kendrick Lamar",
+    "name": "Classic Man (Remix)",
+    "year": 2015,
+    "sampled": []
+  },
+  {
+    "id": 533,
+    "artist": "Kendrick Lamar",
+    "name": "Genocide",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 532,
+        "artist": "The Gap Band",
+        "name": "Burn Rubber on Me (Why You Wanna Hurt Me)",
+        "year": "1980",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 535,
+    "artist": "Kendrick Lamar",
+    "name": "Easy Bake",
+    "year": 2015,
+    "sampled": [
+      {
+        "id": 534,
+        "artist": "Syreeta",
+        "name": "Waitin' for the Postman",
+        "year": "1974",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 536,
+    "artist": "Kendrick Lamar",
+    "name": "Ain't That Funkin\u2019 Kinda Hard on You? (Remix)",
+    "year": 2015,
+    "sampled": []
+  },
+  {
+    "id": 538,
+    "artist": "Ab-Soul",
+    "name": "ILLuminate",
+    "year": "2012",
+    "sampled": []
+  },
+  {
+    "id": 539,
+    "artist": "Macon Hamilton",
+    "name": "Leap",
+    "year": "2012",
+    "sampled": []
+  },
+  {
+    "id": 540,
+    "artist": "Kendrick Lamar",
+    "name": "A.D.H.D.",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 537,
+        "artist": "The Jet Age of Tomorrow",
+        "name": "The Knight Hawk",
+        "year": "2010",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 543,
+    "artist": "Kendrick Lamar",
+    "name": "Good Kid",
+    "year": "2012",
+    "sampled": []
+  },
+  {
+    "id": 544,
+    "artist": "Kendrick Lamar",
+    "name": "Hood Gone Love It",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 541,
+        "artist": "Pointer Sisters",
+        "name": "Easy Days",
+        "year": "1975",
+        "sampled": []
+      },
+      {
+        "id": 542,
+        "artist": "Kanye West",
+        "name": "Celebration",
+        "year": "2005",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 547,
+    "artist": "JID",
+    "name": "2007",
+    "year": "2022",
+    "sampled": []
+  },
+  {
+    "id": 548,
+    "artist": "Kendrick Lamar",
+    "name": "HiiiPoWeR",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 545,
+        "artist": "Kanye West",
+        "name": "So Appalled",
+        "year": "2010",
+        "sampled": []
+      },
+      {
+        "id": 546,
+        "artist": "Jeremy Steig",
+        "name": "Hang on to a Dream",
+        "year": "1969",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 551,
+    "artist": "Gunplay",
+    "name": "Cartoon & Cereal",
+    "year": "2012",
+    "sampled": []
+  },
+  {
+    "id": 552,
+    "artist": "Kendrick Lamar",
+    "name": "No Makeup (Her Vice)",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 549,
+        "artist": "Mountain",
+        "name": "Long Red",
+        "year": "1972",
+        "sampled": []
+      },
+      {
+        "id": 550,
+        "artist": "James Brown",
+        "name": "Introduction to Star Time!",
+        "year": "1968",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 556,
+    "artist": "Kendrick Lamar",
+    "name": "Hol' Up",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 553,
+        "artist": "Dick Walter",
+        "name": "Shifting Sands of Sound",
+        "year": "1974",
+        "sampled": []
+      },
+      {
+        "id": 554,
+        "artist": "James Brown",
+        "name": "The Boss",
+        "year": "1973",
+        "sampled": []
+      },
+      {
+        "id": 555,
+        "artist": "Love",
+        "name": "Doggone",
+        "year": "1969",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 559,
+    "artist": "Kendrick Lamar",
+    "name": "Live Again",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 557,
+        "artist": "Barry White",
+        "name": "I'm Gonna Love You Just a Little More Baby",
+        "year": "1973",
+        "sampled": []
+      },
+      {
+        "id": 558,
+        "artist": "Maceo Parker",
+        "name": "The Soul of a Black Man",
+        "year": "1973",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 563,
+    "artist": "Kendrick Lamar",
+    "name": "Blow My High (Members Only)",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 560,
+        "artist": "Aaliyah",
+        "name": "4 Page Letter",
+        "year": "1996",
+        "sampled": []
+      },
+      {
+        "id": 561,
+        "artist": "Jay-Z",
+        "name": "Big Pimpin'",
+        "year": "1999",
+        "sampled": []
+      },
+      {
+        "id": 562,
+        "artist": "Dexter Wansel",
+        "name": "Voyager",
+        "year": "1978",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 565,
+    "artist": "Eshon Burgundy",
+    "name": "Angels",
+    "year": "2012",
+    "sampled": []
+  },
+  {
+    "id": 566,
+    "artist": "20Syl",
+    "name": "Sing That Shit (20Syl Juicy Remix)",
+    "year": "2014",
+    "sampled": []
+  },
+  {
+    "id": 567,
+    "artist": "Kendrick Lamar",
+    "name": "The City",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 564,
+        "artist": "Fire Inc.",
+        "name": "Tonight Is What It Means to Be Young",
+        "year": "1984",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 570,
+    "artist": "Kendrick Lamar",
+    "name": "Tammy's Song (Her Evils)",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 568,
+        "artist": "Dick Hyman",
+        "name": "Alfie",
+        "year": "1969",
+        "sampled": []
+      },
+      {
+        "id": 569,
+        "artist": "C-Murder",
+        "name": "Down for My Niggaz",
+        "year": "1999",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 572,
+    "artist": "Mitch Porsche",
+    "name": "Diva ++",
+    "year": "2019",
+    "sampled": []
+  },
+  {
+    "id": 573,
+    "artist": "Kendrick Lamar",
+    "name": "Chapter Six",
+    "year": 2011,
+    "sampled": [
+      {
+        "id": 571,
+        "artist": "We Are KING",
+        "name": "Hey",
+        "year": "2011",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 574,
+    "artist": "Kendrick Lamar",
+    "name": "The Greatest (KDA Remix)",
+    "year": 2016,
+    "sampled": []
+  },
+  {
+    "id": 575,
+    "artist": "JUSTHIS",
+    "name": "JUSTHIS",
+    "year": "2016",
+    "sampled": []
+  },
+  {
+    "id": 576,
+    "artist": "Kendrick Lamar",
+    "name": "Untitled 05 09.21.2014.",
+    "year": 2016,
+    "sampled": []
+  },
+  {
+    "id": 578,
+    "artist": "Kendrick Lamar",
+    "name": "Untitled 01|08.19.2014.",
+    "year": 2016,
+    "sampled": [
+      {
+        "id": 577,
+        "artist": "Mass Production",
+        "name": "Galaxy",
+        "year": "1976",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 582,
+    "artist": "Kendrick Lamar",
+    "name": "The Heart Part 4",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 579,
+        "artist": "The 24-Carat Black",
+        "name": "Poverty's Paradise",
+        "year": "1973",
+        "sampled": []
+      },
+      {
+        "id": 580,
+        "artist": "James Brown",
+        "name": "Don't Tell a Lie About Me and I Won't Tell the Truth on You",
+        "year": "1974",
+        "sampled": []
+      },
+      {
+        "id": 581,
+        "artist": "Curtis Mayfield",
+        "name": "Kung Fu",
+        "year": "1974",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 584,
+    "artist": "Kendrick Lamar",
+    "name": "DUCKWORTH.",
+    "year": "2017",
+    "sampled": []
+  },
+  {
+    "id": 585,
+    "artist": "Kendrick Lamar",
+    "name": "BLOOD.",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 583,
+        "artist": "Fox News",
+        "name": "Fox News' \"The Five\" Discusses Kendrick Lamar BET Awards Performance",
+        "year": "2015",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 589,
+    "artist": "Kendrick Lamar",
+    "name": "FEEL.",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 586,
+        "artist": "O.C. Smith",
+        "name": "Stormy",
+        "year": "1968",
+        "sampled": []
+      },
+      {
+        "id": 587,
+        "artist": "Loopmasters",
+        "name": "COF_125_Am_LaidOut_Underwater",
+        "year": "2016",
+        "sampled": []
+      },
+      {
+        "id": 588,
+        "artist": "Loopmasters",
+        "name": "COF_134_B_Changed_Dopey",
+        "year": "2016",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 593,
+    "artist": "Kendrick Lamar",
+    "name": "DUCKWORTH.",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 590,
+        "artist": "Ted Taylor",
+        "name": "Be Ever Wonderful",
+        "year": "1978",
+        "sampled": []
+      },
+      {
+        "id": 591,
+        "artist": "September (Band)",
+        "name": "Ostavi Trag",
+        "year": "1976",
+        "sampled": []
+      },
+      {
+        "id": 592,
+        "artist": "Hiatus Kaiyote",
+        "name": "Atari",
+        "year": "2015",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 596,
+    "artist": "Lil Wayne",
+    "name": "Weezy N Madonna",
+    "year": "2018",
+    "sampled": []
+  },
+  {
+    "id": 597,
+    "artist": "Kendrick Lamar",
+    "name": "LOYALTY.",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 594,
+        "artist": "Bruno Mars",
+        "name": "24K Magic",
+        "year": "2016",
+        "sampled": []
+      },
+      {
+        "id": 595,
+        "artist": "Jay-Z",
+        "name": "Get Your Mind Right Mami",
+        "year": "2000",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 600,
+    "artist": "Sullynomad",
+    "name": "Fear (Freestyle)",
+    "year": "2019",
+    "sampled": []
+  },
+  {
+    "id": 601,
+    "artist": "Kendrick Lamar",
+    "name": "FEAR.",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 598,
+        "artist": "The 24-Carat Black",
+        "name": "Poverty's Paradise",
+        "year": "1973",
+        "sampled": []
+      },
+      {
+        "id": 599,
         "artist": "Kendrick Lamar",
-        "name": "Hol' Up",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Live Again",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Blow My High (Members Only)",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "The City",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Tammy's Song (Her Evils)",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Chapter Six",
-        "year": 2011
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Thanksgiving",
-        "year": 2009
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "G Code",
-        "year": 2009
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Famous Pipe Game",
-        "year": 2009
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Determined",
-        "year": 2009
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "I Am (Interlude)",
-        "year": 2009
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Vanity Slaves",
-        "year": 2009
-    },
-    {
-        "artist": "Kendrick Lamar",
+        "name": "The Heart Part 4",
+        "year": "2017",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 605,
+    "artist": "Kendrick Lamar",
+    "name": "DNA.",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 602,
+        "artist": "Super Freak Live 1982",
+        "name": "Mary Jane / Mary Jane March",
+        "year": "2005",
+        "sampled": []
+      },
+      {
+        "id": 603,
+        "artist": "Fox News",
+        "name": "Fox News' \"The Five\" Discusses Kendrick Lamar BET Awards Performance",
+        "year": "2015",
+        "sampled": []
+      },
+      {
+        "id": 604,
+        "artist": "Keith Murray",
+        "name": "Countdown",
+        "year": "1994",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 607,
+    "artist": "Kendrick Lamar",
+    "name": "Mona Lisa",
+    "year": 2018,
+    "sampled": [
+      {
+        "id": 606,
+        "artist": "Lil Wayne",
+        "name": "Lollipop",
+        "year": "2008",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 609,
+    "artist": "Kendrick Lamar",
+    "name": "Want in Life",
+    "year": 2018,
+    "sampled": [
+      {
+        "id": 608,
+        "artist": "Janko Nilovic",
+        "name": "Black Swan Lake",
+        "year": "1975",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 611,
+    "artist": "Kendrick Lamar",
+    "name": "Something Dirty/Pic Got Us",
+    "year": 2018,
+    "sampled": [
+      {
+        "id": 610,
+        "artist": "Gap Mangione",
+        "name": "Boys With Toys",
+        "year": "1968",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 613,
+    "artist": "Kendrick Lamar",
+    "name": "Gang Member",
+    "year": 2018,
+    "sampled": [
+      {
+        "id": 612,
+        "artist": "Doctor P",
+        "name": "Sweet Shop",
+        "year": "2010",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 615,
+    "artist": "Kendrick Lamar",
+    "name": "Dedication",
+    "year": 2018,
+    "sampled": [
+      {
+        "id": 614,
+        "artist": "Cam'ron",
+        "name": "Live My Life (Leave Me Alone)",
+        "year": "2002",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 616,
+    "artist": "Kendrick Lamar",
+    "name": "Count Me Out",
+    "year": "2022",
+    "sampled": []
+  },
+  {
+    "id": 617,
+    "artist": "Kendrick Lamar",
+    "name": "The Mantra",
+    "year": 2018,
+    "sampled": []
+  },
+  {
+    "id": 618,
+    "artist": "Kendrick Lamar",
+    "name": "Hair Down",
+    "year": 2019,
+    "sampled": []
+  },
+  {
+    "id": 620,
+    "artist": "Kendrick Lamar",
+    "name": "Abortion Money",
+    "year": 2019,
+    "sampled": [
+      {
+        "id": 619,
+        "artist": "Nick Drake",
+        "name": "Things Behind the Sun",
+        "year": "1972",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 622,
+    "artist": "Kendrick Lamar",
+    "name": "6 Foot 7 Foot",
+    "year": 2020,
+    "sampled": [
+      {
+        "id": 621,
+        "artist": "Lil Wayne",
+        "name": "6 Foot 7 Foot",
+        "year": "2010",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 625,
+    "artist": "Kendrick Lamar",
+    "name": "Fire",
+    "year": 2020,
+    "sampled": [
+      {
+        "id": 623,
+        "artist": "Donny Hathaway",
+        "name": "She Is My Lady",
+        "year": "1971",
+        "sampled": []
+      },
+      {
+        "id": 624,
+        "artist": "ScHoolboy Q",
+        "name": "Collard Greens",
+        "year": "2013",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 629,
+    "artist": "Kendrick Lamar",
+    "name": "m.A.A.d City",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 626,
+        "artist": "Five Stairsteps",
+        "name": "Don't Change Your Love",
+        "year": "1968",
+        "sampled": []
+      },
+      {
+        "id": 627,
+        "artist": "B.B. King",
+        "name": "Chains and Things",
+        "year": "1970",
+        "sampled": []
+      },
+      {
+        "id": 628,
+        "artist": "Kanye West",
+        "name": "We Major",
+        "year": "2005",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 632,
+    "artist": "Kendrick Lamar",
+    "name": "Collect Calls",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 630,
+        "artist": "Cold Grits",
+        "name": "It's Your Thing",
+        "year": "1969",
+        "sampled": []
+      },
+      {
+        "id": 631,
+        "artist": "Jay-Z",
+        "name": "Reminder",
+        "year": "2009",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 634,
+    "artist": "Yo Gotti",
+    "name": "Swimming Pool",
+    "year": "2012",
+    "sampled": []
+  },
+  {
+    "id": 635,
+    "artist": "Tyga",
+    "name": "Swimming Pools",
+    "year": "2012",
+    "sampled": []
+  },
+  {
+    "id": 636,
+    "artist": "Kendrick Lamar",
+    "name": "Swimming Pools (Drank)",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 633,
+        "artist": "Chrome (Band)",
+        "name": "Distance",
+        "year": "2002",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 637,
+    "artist": "Kendrick Lamar",
+    "name": "Swimming Pools (Drank) (Black Hippy Remix)",
+    "year": 2012,
+    "sampled": []
+  },
+  {
+    "id": 639,
+    "artist": "Kendrick Lamar",
+    "name": "The Recipe (Black Hippy Remix)",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 638,
+        "artist": "The Notorious B.I.G.",
+        "name": "One More Chance / Stay With Me (Remix)",
+        "year": "1994",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 643,
+    "artist": "Kendrick Lamar",
+    "name": "Sing About Me, I'm Dying of Thirst",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 640,
+        "artist": "Grant Green",
+        "name": "Maybe Tomorrow",
+        "year": "1971",
+        "sampled": []
+      },
+      {
+        "id": 641,
+        "artist": "Bill Withers",
+        "name": "Use Me",
+        "year": "1972",
+        "sampled": []
+      },
+      {
+        "id": 642,
+        "artist": "The Singers Unlimited",
+        "name": "My Romance",
+        "year": "1975",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 645,
+    "artist": "Kendrick Lamar",
+    "name": "Compton",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 644,
+        "artist": "Formula IV",
+        "name": "What's This World Coming To",
+        "year": "1974",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 649,
+    "artist": "Kendrick Lamar",
+    "name": "Fuckin' Problems",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 646,
+        "artist": "Ol' Dirty Bastard",
+        "name": "Shimmy Shimmy Ya",
+        "year": "1995",
+        "sampled": []
+      },
+      {
+        "id": 647,
+        "artist": "Nelly",
+        "name": "Flap Your Wings",
+        "year": "2004",
+        "sampled": []
+      },
+      {
+        "id": 648,
+        "artist": "Aaliyah",
+        "name": "Quit Hatin'",
+        "year": "2013",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 651,
+    "artist": "Kendrick Lamar",
+    "name": "Flower Child",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 650,
+        "artist": "Dorothy Ashby",
+        "name": "Come Live With Me",
+        "year": "1968",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 652,
+    "artist": "D-WHY",
+    "name": "Kill Me Now",
+    "year": "2012",
+    "sampled": []
+  },
+  {
+    "id": 653,
+    "artist": "Kendrick Lamar",
+    "name": "A1 Everything",
+    "year": 2012,
+    "sampled": []
+  },
+  {
+    "id": 654,
+    "artist": "Kendrick Lamar",
+    "name": "Give It 2 U (Remix)",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 655,
+    "artist": "Ab-Soul",
+    "name": "God's Reign",
+    "year": "2014",
+    "sampled": []
+  },
+  {
+    "id": 656,
+    "artist": "staRo",
+    "name": "\u30ab\u30af\u30ec\u30f3\u30dc (DJ NHK Guy Remix)",
+    "year": "2016",
+    "sampled": []
+  },
+  {
+    "id": 657,
+    "artist": "DJ NHK Guy",
+    "name": "IM UR GUY",
+    "year": "2017",
+    "sampled": []
+  },
+  {
+    "id": 658,
+    "artist": "Kendrick Lamar",
+    "name": "Collard Greens",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 662,
+    "artist": "Kendrick Lamar",
+    "name": "Nosetalgia",
+    "year": 2013,
+    "sampled": [
+      {
+        "id": 659,
+        "artist": "Bobby Bland",
+        "name": "(If Loving You Is Wrong) I Don't Want to Be Right",
+        "year": "1973",
+        "sampled": []
+      },
+      {
+        "id": 660,
+        "artist": "Boogie Down Productions",
+        "name": "The Bridge Is Over",
+        "year": "1987",
+        "sampled": []
+      },
+      {
+        "id": 661,
+        "artist": "Malcolm McLaren",
+        "name": "D'Ya Like Scratchin'?",
+        "year": "1983",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "artist": "Kendrick Lamar",
+    "name": "m.A.A.d City (Eprom Remix)",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 664,
+    "artist": "Kendrick Lamar",
+    "name": "R.I.P (Remix)",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 665,
+    "artist": "Kendrick Lamar",
+    "name": "Give It 2 U (Norman Doray & Rob Adans Remix)",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 669,
+    "artist": "Kendrick Lamar",
+    "name": "Love Game",
+    "year": 2013,
+    "sampled": [
+      {
+        "id": 666,
+        "artist": "Wayne Fontana & the Mindbenders",
+        "name": "Game of Love",
+        "year": "1965",
+        "sampled": []
+      },
+      {
+        "id": 667,
+        "artist": "A Tribe Called Quest",
+        "name": "Scenario",
+        "year": "1991",
+        "sampled": []
+      },
+      {
+        "id": 668,
+        "artist": "Our Gang Follies of 1936",
+        "name": "The Object of My Affection",
+        "year": "1935",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 670,
+    "artist": "Kendrick Lamar",
+    "name": "Give It 2 U (Benny Benassi Remix)",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 673,
+    "artist": "Kendrick Lamar",
+    "name": "Triangle Ship",
+    "year": 2013,
+    "sampled": [
+      {
+        "id": 671,
+        "artist": "Bobby Caldwell",
+        "name": "What You Won't Do for Love",
+        "year": "1978",
+        "sampled": []
+      },
+      {
+        "id": 672,
+        "artist": "Tevin Campbell",
+        "name": "Shhh",
+        "year": "1993",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 674,
+    "artist": "Kendrick Lamar",
+    "name": "Give It 2 U (U.S. Mix)",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 676,
+    "artist": "Kendrick Lamar",
+    "name": "Kites",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 675,
+        "artist": "Gil Scott-Heron",
+        "name": "The Revolution Will Not Be Televised",
+        "year": "1971",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 678,
+    "artist": "Kendrick Lamar",
+    "name": "ELEMENT. (OG)",
+    "year": 2017,
+    "sampled": [
+      {
+        "id": 677,
+        "artist": "Aretha Franklin",
+        "name": "One Step Ahead",
+        "year": "1965",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 679,
+    "artist": "Kendrick Lamar",
+    "name": "All the Stars",
+    "year": 2018,
+    "sampled": []
+  },
+  {
+    "id": 681,
+    "artist": "Joey Bada$$",
+    "name": "King's Dead",
+    "year": "2018",
+    "sampled": []
+  },
+  {
+    "id": 682,
+    "artist": "B.o.B",
+    "name": "Cuello",
+    "year": "2018",
+    "sampled": []
+  },
+  {
+    "id": 683,
+    "artist": "Kendrick Lamar",
+    "name": "King's Dead",
+    "year": 2018,
+    "sampled": [
+      {
+        "id": 680,
+        "artist": "Juicy J",
+        "name": "Slob on My Knob",
+        "year": "1993",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 685,
+    "artist": "Kendrick Lamar",
+    "name": "I Am",
+    "year": 2018,
+    "sampled": [
+      {
+        "id": 684,
+        "artist": "Travis Scott",
+        "name": "Drugs You Should Try It",
+        "year": "2014",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 688,
+    "artist": "Kendrick Lamar",
+    "name": "Big Shot",
+    "year": 2018,
+    "sampled": [
+      {
+        "id": 686,
+        "artist": "Rich the Kid",
+        "name": "New Freezer",
+        "year": "2017",
+        "sampled": []
+      },
+      {
+        "id": 687,
+        "artist": "Zero-G",
+        "name": "African 13 111-A",
+        "year": "1996",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 690,
+    "artist": "Kendrick Lamar",
+    "name": "Bloody Waters",
+    "year": 2018,
+    "sampled": [
+      {
+        "id": 689,
+        "artist": "Jadakiss",
+        "name": "We Gonna Make It",
+        "year": "2001",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 692,
+    "artist": "Kendrick Lamar",
+    "name": "Father Stretch My Hands Pt. 1 (Demo)",
+    "year": 2018,
+    "sampled": [
+      {
+        "id": 691,
+        "artist": "Michael Jackson",
+        "name": "Smooth Criminal",
+        "year": "1987",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 693,
+    "artist": "Kendrick Lamar",
+    "name": "Pray for Me",
+    "year": 2018,
+    "sampled": []
+  },
+  {
+    "id": 694,
+    "artist": "Souly",
+    "name": "Schweden",
+    "year": "2023",
+    "sampled": []
+  },
+  {
+    "id": 695,
+    "artist": "Kendrick Lamar",
+    "name": "Wow Freestyle",
+    "year": 2018,
+    "sampled": []
+  },
+  {
+    "id": 697,
+    "artist": "Kendrick Lamar",
+    "name": "Imagine",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 696,
+        "artist": "Snoop Dogg",
+        "name": "Imagine",
+        "year": "2006",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 699,
+    "artist": "Kendrick Lamar",
+    "name": "Compton State of Mind",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 698,
+        "artist": "Jay-Z",
+        "name": "Empire State of Mind",
+        "year": "2009",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 701,
+    "artist": "Kendrick Lamar",
+    "name": "The Best Rapper Alive",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 700,
+        "artist": "Training Day",
+        "name": "End Scene",
+        "year": "2001",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 702,
+    "artist": "Chris Rivers",
+    "name": "Can't Fight the Healing",
+    "year": "2018",
+    "sampled": []
+  },
+  {
+    "id": 703,
+    "artist": "Kendrick Lamar",
+    "name": "Fight the Feeling",
+    "year": 2012,
+    "sampled": []
+  },
+  {
+    "id": 704,
+    "artist": "MC Eiht",
+    "name": "m.A.A.d City",
+    "year": "2012",
+    "sampled": []
+  },
+  {
+    "id": 705,
+    "artist": "Kendrick Lamar",
+    "name": "Tim Westwood Freestyle",
+    "year": 2012,
+    "sampled": []
+  },
+  {
+    "id": 709,
+    "artist": "Kendrick Lamar",
+    "name": "1Train",
+    "year": 2013,
+    "sampled": [
+      {
+        "id": 706,
+        "artist": "Assala",
+        "name": "Meshet Senin",
+        "year": "2003",
+        "sampled": []
+      },
+      {
+        "id": 707,
+        "artist": "Solomon Burke",
+        "name": "Get Out of My Life Woman",
+        "year": "1968",
+        "sampled": []
+      },
+      {
+        "id": 708,
+        "artist": "Big K.R.I.T.",
+        "name": "My Sub",
+        "year": "2011",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 712,
+    "artist": "Kendrick Lamar",
+    "name": "YOLO",
+    "year": 2013,
+    "sampled": [
+      {
+        "id": 710,
+        "artist": "The Joy Formidable",
+        "name": "Whirring",
+        "year": "2009",
+        "sampled": []
+      },
+      {
+        "id": 711,
+        "artist": "Drake",
+        "name": "The Motto",
+        "year": "2011",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 715,
+    "artist": "Kendrick Lamar",
+    "name": "Bitch, Don't Kill My Vibe (Remix)",
+    "year": 2013,
+    "sampled": [
+      {
+        "id": 713,
+        "artist": "Special Ed",
+        "name": "I Got It Made",
+        "year": "1989",
+        "sampled": []
+      },
+      {
+        "id": 714,
+        "artist": "James Brown",
+        "name": "I Got You (I Feel Good)",
+        "year": "1965",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 716,
+    "artist": "Kendrick Lamar",
+    "name": "Next to Me (Kendrick Lamar Remix)",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 718,
+    "artist": "Kendrick Lamar",
+    "name": "Solo Dolo Pt. II",
+    "year": 2013,
+    "sampled": [
+      {
+        "id": 717,
+        "artist": "Menahan Street Band",
+        "name": "Going the Distance",
+        "year": "2008",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 721,
+    "artist": "Kendrick Lamar",
+    "name": "Thanksgiving",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 719,
+        "artist": "Nat King Cole",
+        "name": "Almost Like Being in Love",
+        "year": "1953",
+        "sampled": []
+      },
+      {
+        "id": 720,
+        "artist": "Mountain",
+        "name": "Long Red",
+        "year": "1972",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 723,
+    "artist": "Kendrick Lamar",
+    "name": "G Code",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 722,
+        "artist": "Lil Wayne",
+        "name": "Let the Beat Build",
+        "year": "2008",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 725,
+    "artist": "Kendrick Lamar",
+    "name": "Famous Pipe Game",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 724,
+        "artist": "Lil Wayne",
+        "name": "Mrs. Officer",
+        "year": "2008",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 729,
+    "artist": "Kendrick Lamar",
+    "name": "Determined",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 726,
+        "artist": "Lamont Dozier",
+        "name": "Family",
+        "year": "1977",
+        "sampled": []
+      },
+      {
+        "id": 727,
+        "artist": "Kanye West",
+        "name": "Touch the Sky",
+        "year": "2005",
+        "sampled": []
+      },
+      {
+        "id": 728,
+        "artist": "Napoleon Hill",
+        "name": "Whatever the Mind Can Conceive and Believe, the Mind Can Achieve",
+        "year": "1954",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 732,
+    "artist": "Kendrick Lamar",
+    "name": "I Am (Interlude)",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 730,
+        "artist": "Q-Tip",
+        "name": "Believe",
+        "year": "2008",
+        "sampled": []
+      },
+      {
+        "id": 731,
+        "artist": "The Bible (Book)",
+        "name": "Matthew 5:5",
+        "year": "0000",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 734,
+    "artist": "Kendrick Lamar",
+    "name": "Vanity Slaves",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 733,
+        "artist": "The Foreign Exchange",
+        "name": "Daykeeper",
+        "year": "2008",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 736,
+    "artist": "Kendrick Lamar",
+    "name": "Dumb It Down",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 735,
+        "artist": "Lupe Fiasco",
         "name": "Dumb It Down",
-        "year": 2009
-    },
-    {
+        "year": "2007",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 738,
+    "artist": "Kendrick Lamar",
+    "name": "Young & Black",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 737,
+        "artist": "Monk Higgins",
+        "name": "A Good Man Is Gone",
+        "year": "1975",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 740,
+    "artist": "Kendrick Lamar",
+    "name": "Evil",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 739,
+        "artist": "Juice",
+        "name": "Bar Robbery",
+        "year": "1992",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 742,
+    "artist": "Kendrick Lamar",
+    "name": "Bitch I'm in the Club",
+    "year": 2009,
+    "sampled": [
+      {
+        "id": 741,
+        "artist": "David McCallum",
+        "name": "The Edge",
+        "year": "1967",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 743,
+    "artist": "Kendrick Lamar",
+    "name": "Let Us Move On",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 744,
+    "artist": "Kendrick Lamar",
+    "name": "Let Us Move on (Jeff Bhasker and Plain Pat Remix)",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 746,
+    "artist": "Kendrick Lamar",
+    "name": "Paper Birds",
+    "year": 2013,
+    "sampled": [
+      {
+        "id": 745,
+        "artist": "Jamie Woon",
+        "name": "Wayfaring Stranger (Burial Remix)",
+        "year": "2007",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 747,
+    "artist": "Kendrick Lamar",
+    "name": "Crime",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 749,
+    "artist": "Kendrick Lamar",
+    "name": "Murda",
+    "year": 2013,
+    "sampled": [
+      {
+        "id": 748,
+        "artist": "Masta Ace Incorporated",
+        "name": "SlaughtaHouse",
+        "year": "1993",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 751,
+    "artist": "Kendrick Lamar",
+    "name": "Winner Circle",
+    "year": 2013,
+    "sampled": [
+      {
+        "id": 750,
+        "artist": "Skrillex",
+        "name": "Scary Monsters and Nice Sprites (Phonat Remix)",
+        "year": "2011",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 752,
+    "artist": "Kendrick Lamar",
+    "name": "Sail (TDE Remix)",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 753,
+    "artist": "Kendrick Lamar",
+    "name": "YOLO (Sam F Remix)",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 754,
+    "artist": "Arz",
+    "name": "Give Me 24",
+    "year": "2023",
+    "sampled": []
+  },
+  {
+    "id": 755,
+    "artist": "Kendrick Lamar",
+    "name": "Stay Ready (What a Life)",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 756,
+    "artist": "Kendrick Lamar",
+    "name": "We Up (Remix)",
+    "year": 2013,
+    "sampled": []
+  },
+  {
+    "id": 759,
+    "artist": "Kendrick Lamar",
+    "name": "Look Over Your Shoulder",
+    "year": 2020,
+    "sampled": [
+      {
+        "id": 757,
+        "artist": "The Jackson 5",
+        "name": "I'll Be There",
+        "year": "1970",
+        "sampled": []
+      },
+      {
+        "id": 758,
+        "artist": "John Cameron",
+        "name": "Sympathy",
+        "year": "1986",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 761,
+    "artist": "Kendrick Lamar",
+    "name": "Prayer",
+    "year": 2020,
+    "sampled": [
+      {
+        "id": 760,
+        "artist": "T-Fire",
+        "name": "Say a Prayer",
+        "year": "1979",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 763,
+    "artist": "Conway the Machine",
+    "name": "Family Ties",
+    "year": "2022",
+    "sampled": []
+  },
+  {
+    "id": 764,
+    "artist": "Kendrick Lamar",
+    "name": "Family Ties",
+    "year": 2021,
+    "sampled": [
+      {
+        "id": 762,
+        "artist": "Phonoband",
+        "name": "Last Love",
+        "year": "1973",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 765,
+    "artist": "Kendrick Lamar",
+    "name": "Range Brothers",
+    "year": 2021,
+    "sampled": []
+  },
+  {
+    "id": 768,
+    "artist": "Kendrick Lamar",
+    "name": "The Heart Part 5",
+    "year": 2022,
+    "sampled": [
+      {
+        "id": 766,
+        "artist": "Marvin Gaye",
+        "name": "I Want You",
+        "year": "1976",
+        "sampled": []
+      },
+      {
+        "id": 767,
+        "artist": "Jay-Z",
+        "name": "Izzo (H.O.V.A.)",
+        "year": "2001",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 771,
+    "artist": "Kendrick Lamar",
+    "name": "Die Hard",
+    "year": 2022,
+    "sampled": [
+      {
+        "id": 769,
+        "artist": "Kadhja Bonet",
+        "name": "Remember the Rain",
+        "year": "2015",
+        "sampled": []
+      },
+      {
+        "id": 770,
+        "artist": "Little Anthony and the Imperials",
+        "name": "Shimmy Shimmy Ko Ko Bop",
+        "year": "1959",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 775,
+    "artist": "Kendrick Lamar",
+    "name": "Worldwide Steppers",
+    "year": 2022,
+    "sampled": [
+      {
+        "id": 772,
+        "artist": "The Funkees",
+        "name": "Break Through",
+        "year": "1974",
+        "sampled": []
+      },
+      {
+        "id": 773,
+        "artist": "Soft Touch",
+        "name": "Look Up, Look Down",
+        "year": "1976",
+        "sampled": []
+      },
+      {
+        "id": 774,
+        "artist": "Radel Ortiz",
+        "name": "When There Is No Cheese at the Cookout",
+        "year": "2019",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 777,
+    "artist": "Kendrick Lamar",
+    "name": "Crown",
+    "year": 2022,
+    "sampled": [
+      {
+        "id": 776,
+        "artist": "Duval Timothy",
+        "name": "Through the Night",
+        "year": "2016",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 780,
+    "artist": "Benny the Butcher",
+    "name": "Welcome to the States",
+    "year": "2022",
+    "sampled": []
+  },
+  {
+    "id": 781,
+    "artist": "Kendrick Lamar",
+    "name": "We Cry Together",
+    "year": 2022,
+    "sampled": [
+      {
+        "id": 778,
+        "artist": "Florence & the Machine",
+        "name": "June",
+        "year": "2018",
+        "sampled": []
+      },
+      {
+        "id": 779,
+        "artist": "Gary Peacock",
+        "name": "Valentine",
+        "year": "1980",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 785,
+    "artist": "Kendrick Lamar",
+    "name": "Father Time",
+    "year": 2022,
+    "sampled": [
+      {
+        "id": 782,
+        "artist": "Hoskins 'Ncrowd",
+        "name": "You're Not There",
+        "year": "1960",
+        "sampled": []
+      },
+      {
+        "id": 783,
+        "artist": "Mellotron",
+        "name": "Flute",
+        "year": "1964",
+        "sampled": []
+      },
+      {
+        "id": 784,
+        "artist": "Sugar Ray",
+        "name": "Fly",
+        "year": "1997",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 788,
+    "artist": "Kendrick Lamar",
+    "name": "I'm on 2.0",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 786,
+        "artist": "Trae",
+        "name": "I'm On",
+        "year": "2011",
+        "sampled": []
+      },
+      {
+        "id": 787,
+        "artist": "Star Wars Episode IV: A New Hope",
+        "name": "May the Force Be With You",
+        "year": "1977",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 791,
+    "artist": "Kendrick Lamar",
+    "name": "The World Is a Ghetto",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 789,
+        "artist": "Stevie Wonder",
+        "name": "Higher Ground",
+        "year": "1973",
+        "sampled": []
+      },
+      {
+        "id": 790,
+        "artist": "Zapp",
+        "name": "I Heard It Through the Grapevine",
+        "year": "1981",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 793,
+    "artist": "Twista",
+    "name": "The Recipe (Remix)",
+    "year": "2012",
+    "sampled": []
+  },
+  {
+    "id": 794,
+    "artist": "Kendrick Lamar",
+    "name": "The Recipe",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 792,
+        "artist": "Mr Twin Sister",
+        "name": "Meet the Frownies",
+        "year": "2010",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 796,
+    "artist": "Kendrick Lamar",
+    "name": "Mona Lisa",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 795,
+        "artist": "The Whispers",
+        "name": "(Olivia) Lost and Turned Out",
+        "year": "1978",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 800,
+    "artist": "Kendrick Lamar",
+    "name": "His Pain II",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 797,
+        "artist": "James Brown",
+        "name": "Sunny",
+        "year": "1968",
+        "sampled": []
+      },
+      {
+        "id": 798,
+        "artist": "Syl Johnson",
+        "name": "Different Strokes",
+        "year": "1967",
+        "sampled": []
+      },
+      {
+        "id": 799,
+        "artist": "Kool & the Gang",
+        "name": "N.T.",
+        "year": "1971",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 804,
+    "artist": "Kendrick Lamar",
+    "name": "ILLuminate",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 801,
+        "artist": "Madonna",
+        "name": "Live to Tell",
+        "year": "1986",
+        "sampled": []
+      },
+      {
+        "id": 802,
+        "artist": "Dr. Dre",
+        "name": "What's the Difference",
+        "year": "1999",
+        "sampled": []
+      },
+      {
+        "id": 803,
         "artist": "Kendrick Lamar",
-        "name": "Young & Black",
-        "year": 2009
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Evil",
-        "year": 2009
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Bitch I'm in the Club",
-        "year": 2009
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "I'm on 2.0",
-        "year": 2012
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "The World Is a Ghetto",
-        "year": 2012
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "The Recipe",
-        "year": 2012
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Mona Lisa",
-        "year": 2012
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "His Pain II",
-        "year": 2012
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "ILLuminate",
-        "year": 2012
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "Black Lip Bastard (Rmx)",
-        "year": 2012
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "War Is My Love",
-        "year": 2012
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "S.S.L (Solid Sound Logic)",
-        "year": 2012
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "name": "We Ball",
-        "year": 2012
-    }
+        "name": "A.D.H.D.",
+        "year": "2011",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 805,
+    "artist": "Kendrick Lamar",
+    "name": "Black Lip Bastard (Rmx)",
+    "year": 2012,
+    "sampled": []
+  },
+  {
+    "id": 807,
+    "artist": "Kendrick Lamar",
+    "name": "War Is My Love",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 806,
+        "artist": "Fran\u00e7ois de Roubaix",
+        "name": "Dernier Domicile Connu",
+        "year": "1970",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 809,
+    "artist": "Kendrick Lamar",
+    "name": "S.S.L (Solid Sound Logic)",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 808,
+        "artist": "Franco Micalizzi",
+        "name": "Robert's Theme",
+        "year": "1974",
+        "sampled": []
+      }
+    ]
+  },
+  {
+    "id": 812,
+    "artist": "404 Villain",
+    "name": "Money on Time",
+    "year": "2014",
+    "sampled": []
+  },
+  {
+    "id": 813,
+    "artist": "Kendrick Lamar",
+    "name": "We Ball",
+    "year": 2012,
+    "sampled": [
+      {
+        "id": 810,
+        "artist": "Richard Rodney Bennett",
+        "name": "Billion Dollar Brain (Main Theme)",
+        "year": "1967",
+        "sampled": []
+      },
+      {
+        "id": 811,
+        "artist": "WCW/NWA the Great American Bash",
+        "name": "Real Men Stay Up",
+        "year": "1990",
+        "sampled": []
+      }
+    ]
+  }
 ]
