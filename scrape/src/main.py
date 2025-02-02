@@ -11,6 +11,13 @@ id_counter = 100
 def main():
     global id_counter 
 
+    sampled = {
+        "id": 0,
+        "name": "Everybody Loves the Sunshine",
+        "year": 1976,
+        "artist": "Roy Ayers Ubiquity"
+    }
+    playwright("https://www.whosampled.com/Roy-Ayers-Ubiquity/Everybody-Loves-the-Sunshine/sampled/", sampled)
     # sampled = {
     #     "id": 0,
     #     "name": "Good Times",
@@ -20,25 +27,18 @@ def main():
     # playwright("https://www.whosampled.com/Chic/Good-Times/sampled/", sampled)
     # sampled = {
     #     "id": 0,
-    #     "name": "Everybody Loves the Sunshine",
-    #     "year": 1976,
-    #     "artist": "Roy Ayers Ubiquity"
-    # }
-    # playwright("https://www.whosampled.com/Roy-Ayers-Ubiquity/Everybody-Loves-the-Sunshine/sampled/", sampled)
-    # sampled = {
-    #     "id": 0,
     #     "name": "C.R.E.A.M.",
     #     "artist": "Wu-Tang Clan",
     #     "year": 1993,
     # }
     # playwright("https://www.whosampled.com/Wu-Tang-Clan/C.R.E.A.M./sampled/", sampled)
-    sampled = {
-        "id": 100,
-        "name": "Shook Ones Part II",
-        "artist": "Mobb Deep",
-        "year": 1994,
-    }
-    playwright("https://www.whosampled.com/Mobb-Deep/Shook-Ones-Part-II/sampled/", sampled)
+    # sampled = {
+    #     "id": 100,
+    #     "name": "Shook Ones Part II",
+    #     "artist": "Mobb Deep",
+    #     "year": 1994,
+    # }
+    # playwright("https://www.whosampled.com/Mobb-Deep/Shook-Ones-Part-II/sampled/", sampled)
     sys.exit(0)
 
     songs=[]
@@ -114,7 +114,10 @@ def crawl_songs_that_sampled(browser, link, sampled):
             page = browser.new_page()
             linkIdx=f"{link}?cp={idx}"
             print(linkIdx)
-            page.goto(linkIdx)
+            try:
+                page.goto(linkIdx)
+            except:
+                continue
             html = BeautifulSoup(page.content(), "html.parser")
 
             if "Page Not Found" in html.h1.text:
@@ -125,7 +128,6 @@ def crawl_songs_that_sampled(browser, link, sampled):
             try:
                 trs = html.table.tbody.find_all("tr")
             except:
-                print("Error:")
                 continue
 
             for tr in trs:
@@ -155,7 +157,6 @@ def crawl_songs_that_sampled(browser, link, sampled):
                 crawl_songs_that_sampled(browser, \
                                          f"https://www.whosampled.com/{newLink}/sampled/", \
                                          current)
-
         sleep(1)
         page.close()
 
